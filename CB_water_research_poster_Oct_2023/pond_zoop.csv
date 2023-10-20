@@ -1,0 +1,1625 @@
+,year,date,lake_id,taxon,counted_dem?,dem,infect,count,eggs,counted_all?,fewer_10_hosts?,other_inf_sp,notes,parasite,parasite2,demography
+1,2022,4/8/22,Bear Creek,dpa,yes,A,U,78,117,no,no,NA,NA,uninfected,,adult
+2,2022,4/8/22,Bear Creek,dpa,yes,J,U,232,NA,no,no,NA,NA,uninfected,,juvenile
+3,2022,4/27/22,Bear Creek,dam,yes,A,U,28,76,no,no,NA,NA,uninfected,,adult
+4,2022,4/27/22,Bear Creek,dam,yes,J,U,17,NA,no,no,NA,NA,uninfected,,juvenile
+5,2022,4/27/22,Bear Creek,dam,yes,M,U,2,NA,no,no,NA,NA,uninfected,,male
+6,2022,4/27/22,Bear Creek,dpa,yes,A,U,104,197,no,no,NA,NA,uninfected,,adult
+7,2022,4/27/22,Bear Creek,dpa,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+8,2022,4/27/22,Bear Creek,dpa,yes,J,U,208,NA,no,no,NA,NA,uninfected,,juvenile
+9,2022,4/27/22,Bear Creek,dpa,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+10,2022,5/25/22,Bear Creek,dam,yes,A,U,31,38,yes,no,NA,NA,uninfected,,adult
+11,2022,5/25/22,Bear Creek,dam,yes,J,U,64,NA,yes,no,NA,NA,uninfected,,juvenile
+12,2022,5/25/22,Bear Creek,dpa,yes,A,U,24,44,yes,no,NA,NA,uninfected,,adult
+13,2022,5/25/22,Bear Creek,dpa,yes,J,U,21,NA,yes,no,NA,NA,uninfected,,juvenile
+14,2022,6/20/22,Bear Creek,bos,no,NA,U,161,NA,yes,no,NA,NA,uninfected,,check
+15,2022,6/20/22,Bear Creek,dpa,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+16,2022,6/20/22,Bear Creek,dpa,yes,J,U,0,NA,yes,no,NA,NA,uninfected,,juvenile
+160,2021,4/14/21,Catfish,dla,yes,A,L+B,1,NA,no,no,NA,NA,larssonia,brood,adult
+598,2022,4/21/22,Deer,dla,yes,A,L+B,2,0,no,no,NA,NA,larssonia,brood,adult
+19,2021,4/2/21,Big Sister,bos,no,NA,U,44,NA,no,no,NA,NA,uninfected,,check
+20,2021,4/2/21,Big Sister,dam,no,NA,L,4,NA,no,no,NA,NA,larssonia,,check
+21,2021,4/2/21,Big Sister,dam,no,NA,B,5,NA,no,no,NA,NA,brood,,check
+22,2021,4/2/21,Big Sister,dam,no,NA,U,281,NA,no,no,NA,NA,uninfected,,check
+23,2021,4/2/21,Big Sister,dla,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+24,2021,4/7/21,Big Sister,bos,no,NA,U,22,NA,no,no,NA,NA,uninfected,,check
+25,2021,4/7/21,Big Sister,dam,yes,A,L,19,7,no,no,NA,NA,larssonia,,adult
+26,2021,4/7/21,Big Sister,dam,yes,A,L,32,NA,no,no,NA,NA,larssonia,,adult
+27,2021,4/7/21,Big Sister,dam,yes,A,U,90,68,no,no,NA,NA,uninfected,,adult
+28,2021,4/7/21,Big Sister,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+29,2021,4/7/21,Big Sister,dam,yes,J,U,217,NA,no,no,NA,NA,uninfected,,juvenile
+30,2021,4/7/21,Big Sister,dam,yes,M,U,2,NA,no,no,NA,undercounted M,uninfected,,male
+31,2021,4/14/21,Big Sister,dam,yes,A,B,3,NA,no,no,NA,NA,brood,,adult
+32,2021,4/14/21,Big Sister,dam,yes,A,L,8,0,no,no,NA,NA,larssonia,,adult
+33,2021,4/14/21,Big Sister,dam,yes,A,U,217,170,no,no,NA,NA,uninfected,,adult
+34,2021,4/14/21,Big Sister,dam,yes,J,U,164,NA,no,no,NA,NA,uninfected,,juvenile
+35,2021,4/14/21,Big Sister,dam,yes,M,U,5,NA,no,no,NA,NA,uninfected,,male
+36,2021,4/14/21,Big Sister,dla,yes,A,U,1,5,no,no,NA,NA,uninfected,,adult
+37,2021,4/14/21,Big Sister,dla,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+38,2021,4/21/21,Big Sister,dam,yes,A,B,2,NA,no,no,NA,NA,brood,,adult
+39,2021,4/21/21,Big Sister,dam,yes,A,L,9,2,no,no,NA,NA,larssonia,,adult
+40,2021,4/21/21,Big Sister,dam,yes,A,U,218,315,no,no,NA,NA,uninfected,,adult
+41,2021,4/21/21,Big Sister,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+42,2021,4/21/21,Big Sister,dam,yes,J,U,154,0,no,no,NA,NA,uninfected,,juvenile
+43,2021,4/21/21,Big Sister,dam,yes,M,U,4,NA,no,no,NA,NA,uninfected,,male
+44,2021,4/28/21,Big Sister,dam,yes,A,U,181,296,no,no,NA,NA,uninfected,,adult
+45,2021,4/28/21,Big Sister,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+46,2021,4/28/21,Big Sister,dam,yes,J,U,131,NA,no,no,NA,NA,uninfected,,juvenile
+47,2021,4/28/21,Big Sister,dam,yes,M,U,4,NA,no,no,NA,NA,uninfected,,male
+48,2021,5/5/21,Big Sister,dam,yes,A,U,39,50,yes,no,NA,lots bosmina,uninfected,,adult
+49,2021,5/5/21,Big Sister,dam,yes,J,U,38,NA,yes,no,NA,lots bosmina,uninfected,,juvenile
+50,2021,5/5/21,Big Sister,dam,yes,M,U,2,NA,yes,no,NA,lots bosmina,uninfected,,male
+51,2021,5/12/21,Big Sister,dam,yes,A,U,7,6,yes,no,NA,lots bosmina,uninfected,,adult
+52,2021,5/12/21,Big Sister,dam,yes,J,U,8,NA,yes,no,NA,lots bosmina,uninfected,,juvenile
+53,2021,5/19/21,Big Sister,dam,yes,A,U,11,14,yes,no,NA,NA,uninfected,,adult
+54,2021,5/19/21,Big Sister,dam,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+605,2022,5/11/22,Deer,dla,yes,A,L+B,2,0,no,no,NA,NA,larssonia,brood,adult
+56,2021,6/23/21,Big Sister,dam,yes,A,L,5,0,yes,no,NA,lots bosmina,larssonia,,adult
+57,2021,6/23/21,Big Sister,dam,yes,A,U,43,49,yes,no,NA,lots bosmina,uninfected,,adult
+58,2021,6/23/21,Big Sister,dam,yes,J,U,19,NA,yes,no,NA,lots bosmina,uninfected,,juvenile
+59,2021,7/13/21,Big Sister,dam,yes,L,L,1,0,yes,yes,NA,NA,larssonia,,check
+60,2021,7/13/21,Big Sister,dam,yes,U,U,2,NA,yes,yes,NA,NA,uninfected,,check
+61,2021,7/13/21,Big Sister,dam,yes,U,U,3,0,yes,yes,NA,NA,uninfected,,check
+62,2021,7/13/21,Big Sister,dla,yes,U,U,2,NA,yes,yes,NA,NA,uninfected,,check
+63,2021,8/4/21,Big Sister,dam,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+64,2021,8/4/21,Big Sister,dam,yes,A,U,15,10,yes,no,NA,NA,uninfected,,adult
+65,2021,8/4/21,Big Sister,dam,yes,J,U,11,NA,yes,no,NA,NA,uninfected,,juvenile
+66,2021,8/4/21,Big Sister,dla,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+67,2021,8/26/21,Big Sister,dam,yes,A,L,9,0,no,no,NA,NA,larssonia,,adult
+68,2021,8/26/21,Big Sister,dam,yes,A,U,157,170,no,no,NA,NA,uninfected,,adult
+69,2021,8/26/21,Big Sister,dam,yes,J,U,140,NA,no,no,NA,NA,uninfected,,juvenile
+70,2021,8/26/21,Big Sister,dla,yes,A,U,2,NA,no,no,NA,NA,uninfected,,adult
+71,2021,8/26/21,Big Sister,dla,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+72,2021,8/26/21,Big Sister,dpa,yes,A,U,3,7,no,no,NA,NA,uninfected,,adult
+73,2021,8/26/21,Big Sister,dpa,yes,J,U,7,NA,no,no,NA,NA,uninfected,,juvenile
+74,2021,9/14/21,Big Sister,dam,yes,A,L,5,0,no,no,NA,NA,larssonia,,adult
+75,2021,9/14/21,Big Sister,dam,yes,A,U,171,45,no,no,NA,NA,uninfected,,adult
+76,2021,9/14/21,Big Sister,dam,yes,J,U,140,NA,no,no,NA,NA,uninfected,,juvenile
+77,2021,10/12/21,Big Sister,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+78,2021,10/12/21,Big Sister,dam,yes,A,U,135,139,yes,no,NA,NA,uninfected,,adult
+79,2021,10/12/21,Big Sister,dam,yes,J,U,135,NA,yes,no,NA,NA,uninfected,,juvenile
+80,2021,10/12/21,Big Sister,dla,yes,A,U,2,4,yes,no,NA,NA,uninfected,,adult
+81,2021,10/12/21,Big Sister,dla,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+82,2021,11/2/21,Big Sister,dam,yes,A,U,55,61,yes,no,NA,NA,uninfected,,adult
+83,2021,11/2/21,Big Sister,dam,yes,J,U,86,NA,yes,no,NA,NA,uninfected,,juvenile
+84,2021,11/22/21,Big Sister,cer,no,NA,L,1,NA,yes,no,NA,NA,larssonia,,check
+85,2021,11/22/21,Big Sister,cer,no,NA,U,11,NA,yes,no,NA,NA,uninfected,,check
+86,2021,11/22/21,Big Sister,dam,yes,A,L,4,0,yes,no,NA,NA,larssonia,,adult
+87,2021,11/22/21,Big Sister,dam,yes,A,U,89,110,yes,no,NA,NA,uninfected,,adult
+88,2021,11/22/21,Big Sister,dam,yes,J,U,107,NA,yes,no,NA,NA,uninfected,,juvenile
+89,2021,11/22/21,Big Sister,dia,no,NA,U,4,NA,yes,no,NA,NA,uninfected,,check
+90,2021,11/22/21,Big Sister,sim,yes,A,L,1,0,yes,no,NA,questionable infection - confirm from spore yield?,larssonia,,adult
+91,2021,12/14/21,Big Sister,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+92,2021,12/14/21,Big Sister,dam,yes,A,U,72,95,yes,no,NA,NA,uninfected,,adult
+93,2021,12/14/21,Big Sister,dam,yes,J,U,84,NA,yes,no,NA,NA,uninfected,,juvenile
+94,2021,12/14/21,Big Sister,dia,no,NA,L,1,NA,yes,no,NA,NA,larssonia,,check
+95,2021,12/14/21,Big Sister,dia,no,NA,U,9,NA,yes,no,NA,NA,uninfected,,check
+96,2022,1/5/22,Big Sister,cer,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+97,2022,1/5/22,Big Sister,dam,yes,A,U,86,188,yes,no,NA,NA,uninfected,,adult
+98,2022,1/5/22,Big Sister,dam,yes,J,U,58,NA,yes,no,NA,NA,uninfected,,juvenile
+99,2022,1/5/22,Big Sister,dia,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+100,2022,1/5/22,Big Sister,dla,yes,J,U,5,NA,yes,no,NA,NA,uninfected,,juvenile
+101,2022,1/27/22,Big Sister,cer,no,NA,U,8,NA,no,no,NA,NA,uninfected,,check
+102,2022,1/27/22,Big Sister,dam,yes,A,U,90,224,no,no,NA,NA,uninfected,,adult
+103,2022,1/27/22,Big Sister,dam,yes,J,U,223,NA,no,no,NA,NA,uninfected,,juvenile
+104,2022,1/27/22,Big Sister,dia,no,NA,U,5,NA,no,no,NA,NA,uninfected,,check
+105,2022,1/27/22,Big Sister,dla,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+106,2022,2/18/22,Big Sister,dam,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+107,2022,2/18/22,Big Sister,dam,yes,A,U,125,109,no,no,NA,NA,uninfected,,adult
+108,2022,2/18/22,Big Sister,dam,yes,J,U,189,NA,no,no,NA,NA,uninfected,,juvenile
+109,2022,2/18/22,Big Sister,dla,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+110,2022,3/7/22,Big Sister,dam,yes,A,L,6,1,yes,no,NA,NA,larssonia,,adult
+111,2022,3/7/22,Big Sister,dam,yes,A,U,191,367,yes,no,NA,NA,uninfected,,adult
+112,2022,3/7/22,Big Sister,dam,yes,J,U,179,NA,yes,no,NA,NA,uninfected,,juvenile
+113,2022,3/7/22,Big Sister,dla,yes,A,U,3,17,yes,no,NA,NA,uninfected,,adult
+114,2022,3/7/22,Big Sister,dla,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+115,2022,3/28/22,Big Sister,dam,yes,A,L,74,9,no,no,NA,NA,larssonia,,adult
+116,2022,3/28/22,Big Sister,dam,yes,A,U,120,145,no,no,NA,NA,uninfected,,adult
+117,2022,3/28/22,Big Sister,dam,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+118,2022,3/28/22,Big Sister,dam,yes,J,L,4,NA,no,no,NA,NA,larssonia,,juvenile
+119,2022,3/28/22,Big Sister,dam,yes,J,U,257,NA,no,no,NA,NA,uninfected,,juvenile
+120,2022,3/28/22,Big Sister,dla,yes,A,U,6,17,no,no,NA,NA,uninfected,,adult
+121,2022,3/28/22,Big Sister,dla,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+122,2022,4/21/22,Big Sister,cer,no,NA,U,9,NA,no,no,NA,NA,uninfected,,check
+123,2022,4/21/22,Big Sister,dam,yes,A,L,52,14,no,no,NA,NA,larssonia,,adult
+124,2022,4/21/22,Big Sister,dam,yes,A,U,120,190,no,no,NA,NA,uninfected,,adult
+125,2022,4/21/22,Big Sister,dam,yes,J,U,231,NA,no,no,NA,NA,uninfected,,juvenile
+126,2022,4/21/22,Big Sister,dam,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+127,2022,4/21/22,Big Sister,dia,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+128,2022,4/21/22,Big Sister,dia,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+129,2022,4/21/22,Big Sister,dla,yes,A,U,2,7,no,no,NA,NA,uninfected,,adult
+130,2022,4/21/22,Big Sister,dla,yes,J,U,8,NA,no,no,NA,NA,uninfected,,juvenile
+131,2022,4/21/22,Big Sister,dpa,yes,J,U,2,NA,no,no,NA,NA,uninfected,,juvenile
+132,2022,5/11/22,Big Sister,cer,no,NA,U,182,NA,no,no,NA,NA,uninfected,,check
+133,2022,5/11/22,Big Sister,dam,yes,A,L,6,0,no,no,NA,NA,larssonia,,adult
+134,2022,5/11/22,Big Sister,dam,yes,A,U,127,41,no,no,NA,NA,uninfected,,adult
+135,2022,5/11/22,Big Sister,dam,yes,J,U,185,NA,no,no,bos,lots of Bosmina infected with pasteuria! Confirmed by squish,uninfected,,juvenile
+136,2022,5/11/22,Big Sister,dia,no,NA,L,3,NA,no,no,NA,NA,larssonia,,check
+137,2022,5/11/22,Big Sister,dia,no,NA,U,22,NA,no,no,NA,NA,uninfected,,check
+138,2022,5/11/22,Big Sister,dla,yes,A,U,4,12,no,no,NA,NA,uninfected,,adult
+139,2022,5/11/22,Big Sister,dla,yes,J,U,19,NA,no,no,NA,NA,uninfected,,juvenile
+140,2022,5/11/22,Big Sister,dpa,yes,A,U,2,NA,no,no,NA,NA,uninfected,,adult
+141,2022,5/11/22,Big Sister,dpa,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+264,2022,4/8/22,Chapman,dam,yes,A,L+G,1,0,no,no,NA,NA,larssonia,gurleya,adult
+143,2022,6/3/22,Big Sister,bos,no,NA,U,273,NA,no,no,NA,NA,uninfected,,check
+144,2022,6/3/22,Big Sister,cer,no,NA,U,3,NA,no,no,NA,NA,uninfected,,check
+145,2022,6/3/22,Big Sister,dam,yes,A,U,1,1,no,no,NA,NA,uninfected,,adult
+146,2022,6/3/22,Big Sister,dla,yes,A,U,1,10,no,no,NA,NA,uninfected,,adult
+147,2022,6/3/22,Big Sister,dpa,yes,A,U,1,NA,no,no,NA,NA,uninfected,,adult
+148,2022,6/22/22,Big Sister,bos,no,NA,M,19,NA,yes,no,NA,squished ~5 to confirm. Sent some to Meg too.,metsch,,check
+149,2022,6/22/22,Big Sister,bos,no,NA,U,126,NA,yes,no,NA,NA,uninfected,,check
+150,2022,6/22/22,Big Sister,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+151,2022,6/22/22,Big Sister,dam,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+152,2022,6/22/22,Big Sister,dla,no,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+153,2022,6/22/22,Big Sister,dla,yes,A,U,2,0,yes,no,NA,NA,uninfected,,adult
+154,2022,6/22/22,Big Sister,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+155,2022,7/13/22,Big Sister,bos,no,NA,U,4,NA,yes,yes,NA,NA,uninfected,,check
+156,2022,7/13/22,Big Sister,cer,no,NA,U,4,NA,yes,yes,NA,NA,uninfected,,check
+157,2022,7/13/22,Big Sister,dam,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+271,2022,4/8/22,Chapman,dpa,yes,A,L+G,1,0,no,no,NA,NA,larssonia,gurleya,adult
+159,2021,4/14/21,Catfish,dam,yes,A,B,2,NA,no,no,NA,NA,brood,,adult
+17,2022,7/15/22,Bear Creek,NA,NA,NA,NA,NA,NA,yes,yes,NA,no cladocerans,NA,,check
+161,2021,4/14/21,Catfish,dla,yes,A,U,46,85,no,no,NA,NA,uninfected,,adult
+162,2021,4/14/21,Catfish,dla,yes,A,L,58,0,no,no,NA,NA,larssonia,,adult
+163,2021,4/14/21,Catfish,dla,yes,J,U,26,NA,no,no,NA,NA,uninfected,,juvenile
+164,2021,4/14/21,Catfish,dla,yes,J,L,57,NA,no,no,NA,NA,larssonia,,juvenile
+165,2021,4/14/21,Catfish,dla,yes,M,L,2,NA,no,no,NA,NA,larssonia,,male
+166,2021,4/14/21,Catfish,dla,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+167,2021,4/21/21,Catfish,dla,yes,A,U,51,80,no,no,NA,NA,uninfected,,adult
+168,2021,4/21/21,Catfish,dla,yes,A,L,79,1,no,no,NA,NA,larssonia,,adult
+169,2021,4/21/21,Catfish,dla,yes,J,L,7,0,no,no,NA,NA,larssonia,,juvenile
+170,2021,4/21/21,Catfish,dla,yes,J,U,200,NA,no,no,NA,NA,uninfected,,juvenile
+171,2021,4/21/21,Catfish,dla,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+172,2021,4/28/21,Catfish,dla,yes,A,L,30,4,yes,no,NA,some sim,larssonia,,adult
+173,2021,4/28/21,Catfish,dla,yes,A,U,40,152,yes,no,NA,some sim,uninfected,,adult
+174,2021,4/28/21,Catfish,dla,yes,J,L,2,NA,yes,no,NA,some sim,larssonia,,juvenile
+175,2021,4/28/21,Catfish,dla,yes,J,U,168,NA,yes,no,NA,some sim,uninfected,,juvenile
+176,2021,4/28/21,Catfish,dla,yes,M,L,1,NA,yes,no,NA,some sim,larssonia,,male
+177,2021,4/28/21,Catfish,dla,yes,M,U,4,NA,yes,no,NA,some sim,uninfected,,male
+178,2021,5/5/21,Catfish,dla,yes,A,L,20,0,yes,no,NA,NA,larssonia,,adult
+179,2021,5/5/21,Catfish,dla,yes,A,U,30,143,yes,no,NA,NA,uninfected,,adult
+180,2021,5/5/21,Catfish,dla,yes,J,U,175,NA,yes,no,NA,NA,uninfected,,juvenile
+181,2021,5/5/21,Catfish,dla,yes,M,U,7,NA,yes,no,NA,NA,uninfected,,male
+182,2021,5/12/21,Catfish,dla,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+183,2021,5/12/21,Catfish,dla,yes,A,U,13,50,yes,no,NA,NA,uninfected,,adult
+184,2021,5/12/21,Catfish,dla,yes,J,U,72,NA,yes,no,NA,NA,uninfected,,juvenile
+185,2021,5/19/21,Catfish,dla,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+186,2021,5/19/21,Catfish,dla,yes,A,U,4,8,yes,no,NA,NA,uninfected,,adult
+187,2021,5/19/21,Catfish,dla,yes,J,U,12,NA,yes,no,NA,NA,uninfected,,juvenile
+188,2021,5/26/21,Catfish,dla,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+189,2021,5/26/21,Catfish,dla,yes,J,U,14,NA,yes,no,NA,NA,uninfected,,juvenile
+190,2021,6/2/21,Catfish,dla,yes,A,U,4,10,yes,no,NA,NA,uninfected,,adult
+191,2021,6/2/21,Catfish,dla,yes,J,U,13,NA,yes,no,NA,NA,uninfected,,juvenile
+192,2021,6/23/21,Catfish,dla,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+193,2021,6/23/21,Catfish,dla,yes,A,U,126,391,no,no,NA,NA,uninfected,,adult
+194,2021,6/23/21,Catfish,dla,yes,J,U,345,NA,no,no,NA,NA,uninfected,,juvenile
+195,2021,7/13/21,Catfish,dla,yes,A,U,56,305,no,no,NA,NA,uninfected,,adult
+196,2021,7/13/21,Catfish,dla,yes,J,U,296,NA,no,no,NA,NA,uninfected,,juvenile
+197,2021,8/4/21,Catfish,dla,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+198,2021,8/4/21,Catfish,dla,yes,A,U,157,162,no,no,NA,NA,uninfected,,adult
+199,2021,8/4/21,Catfish,dla,yes,J,U,231,NA,no,no,NA,NA,uninfected,,juvenile
+200,2021,8/26/21,Catfish,dla,yes,A,U,167,243,no,no,NA,NA,uninfected,,adult
+201,2021,8/26/21,Catfish,dla,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+202,2021,8/26/21,Catfish,dla,yes,J,U,200,NA,no,no,NA,NA,uninfected,,juvenile
+18,2022,8/9/22,Bear Creek,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+204,2021,10/12/21,Catfish,dla,yes,A,U,1,4,yes,yes,NA,NA,uninfected,,adult
+205,2021,10/12/21,Catfish,dla,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+206,2021,11/2/21,Catfish,dla,yes,A,U,11,44,yes,no,NA,NA,uninfected,,adult
+207,2021,11/2/21,Catfish,dla,yes,J,U,15,NA,yes,no,NA,NA,uninfected,,juvenile
+208,2021,11/22/21,Catfish,dia,no,NA,U,14,NA,no,no,NA,NA,uninfected,,check
+209,2021,11/22/21,Catfish,dla,yes,A,U,55,318,no,no,NA,NA,uninfected,,adult
+210,2021,11/22/21,Catfish,dla,yes,J,U,278,NA,no,no,NA,NA,uninfected,,juvenile
+211,2021,11/22/21,Catfish,sim,yes,A,U,1,0,no,no,NA,NA,uninfected,,adult
+212,2021,11/22/21,Catfish,sim,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+213,2021,11/22/21,Catfish,sim,yes,J,U,2,NA,no,no,NA,NA,uninfected,,juvenile
+214,2021,12/14/21,Catfish,dla,yes,A,U,65,243,no,no,NA,NA,uninfected,,adult
+215,2021,12/14/21,Catfish,dla,yes,J,U,297,NA,no,no,NA,NA,uninfected,,juvenile
+216,2022,1/5/22,Catfish,dla,yes,A,L,1,0,no,no,NA,upper heart infection,larssonia,,adult
+217,2022,1/5/22,Catfish,dla,yes,A,U,129,130,no,no,NA,NA,uninfected,,adult
+218,2022,1/5/22,Catfish,dla,yes,J,U,255,NA,no,no,NA,NA,uninfected,,juvenile
+219,2022,1/27/22,Catfish,dla,yes,A,U,99,25,no,no,NA,NA,uninfected,,adult
+220,2022,1/27/22,Catfish,dla,yes,E,U,5,NA,no,no,NA,NA,uninfected,,ephippial
+221,2022,1/27/22,Catfish,dla,yes,J,U,311,NA,no,no,NA,NA,uninfected,,juvenile
+222,2022,1/27/22,Catfish,dla,yes,M,U,2,NA,no,no,NA,NA,uninfected,,male
+223,2022,1/27/22,Catfish,sim,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+224,2022,2/18/22,Catfish,dam,yes,A,L,1,1,no,no,NA,NA,larssonia,,adult
+225,2022,2/18/22,Catfish,dam,yes,A,U,5,7,no,no,NA,NA,uninfected,,adult
+226,2022,2/18/22,Catfish,dam,yes,J,U,2,NA,no,no,NA,NA,uninfected,,juvenile
+227,2022,2/18/22,Catfish,dla,yes,A,L,26,0,no,no,NA,NA,larssonia,,adult
+228,2022,2/18/22,Catfish,dla,yes,A,U,104,65,no,no,NA,NA,uninfected,,adult
+229,2022,2/18/22,Catfish,dla,yes,J,L,8,NA,no,no,NA,NA,larssonia,,juvenile
+230,2022,2/18/22,Catfish,dla,yes,J,U,203,NA,no,no,NA,NA,uninfected,,juvenile
+231,2022,3/7/22,Catfish,dla,yes,A,U,67,37,no,no,NA,NA,uninfected,,adult
+232,2022,3/7/22,Catfish,dla,yes,A,L,165,0,no,no,NA,NA,larssonia,,adult
+233,2022,3/7/22,Catfish,dla,yes,J,L,5,NA,no,no,NA,NA,larssonia,,juvenile
+234,2022,3/7/22,Catfish,dla,yes,J,U,198,NA,no,no,NA,NA,uninfected,,juvenile
+235,2022,3/17/22,Catfish,dla,yes,A,U,52,74,no,no,NA,NA,uninfected,,adult
+236,2022,3/17/22,Catfish,dla,yes,A,L,377,3,no,no,NA,NA,larssonia,,adult
+237,2022,3/17/22,Catfish,dla,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+238,2022,3/17/22,Catfish,dla,yes,J,L,7,NA,no,no,NA,NA,larssonia,,juvenile
+239,2022,3/17/22,Catfish,dla,yes,J,U,100,NA,no,no,NA,NA,uninfected,,juvenile
+240,2022,3/28/22,Catfish,dla,yes,A,L,5,0,yes,no,NA,NA,larssonia,,adult
+241,2022,3/28/22,Catfish,dla,yes,A,U,13,13,yes,no,NA,NA,uninfected,,adult
+242,2022,3/28/22,Catfish,dla,yes,J,U,232,NA,yes,no,NA,NA,uninfected,,juvenile
+243,2022,4/21/22,Catfish,cer,no,NA,U,4,NA,yes,yes,NA,NA,uninfected,,check
+244,2022,4/21/22,Catfish,dla,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+245,2022,5/11/22,Catfish,dia,no,NA,U,15,NA,yes,no,NA,NA,uninfected,,check
+246,2022,5/11/22,Catfish,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+247,2022,5/11/22,Catfish,dla,yes,A,U,14,12,yes,no,NA,NA,uninfected,,adult
+248,2022,5/11/22,Catfish,dla,yes,J,U,139,NA,yes,no,NA,NA,uninfected,,juvenile
+249,2022,6/3/22,Catfish,dla,yes,A,B,36,6,yes,no,NA,NA,brood,,adult
+250,2022,6/3/22,Catfish,dla,yes,A,U,52,105,yes,no,NA,NA,uninfected,,adult
+251,2022,6/3/22,Catfish,dla,yes,E,U,4,NA,yes,no,NA,NA,uninfected,,ephippial
+252,2022,6/3/22,Catfish,dla,yes,J,U,23,NA,yes,no,NA,NA,uninfected,,juvenile
+253,2022,6/22/22,Catfish,dia,no,NA,U,7,NA,yes,no,NA,NA,uninfected,,check
+254,2022,6/22/22,Catfish,dla,yes,A,U,2,11,yes,no,NA,NA,uninfected,,adult
+255,2022,6/22/22,Catfish,dla,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+256,2022,7/13/22,Catfish,cer,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+257,2022,7/13/22,Catfish,dia,no,NA,U,39,NA,yes,no,NA,NA,uninfected,,check
+258,2022,7/13/22,Catfish,dla,yes,A,U,3,9,yes,no,NA,NA,uninfected,,adult
+259,2022,7/13/22,Catfish,dla,yes,J,U,17,NA,yes,no,NA,NA,uninfected,,juvenile
+260,2022,8/5/22,Catfish,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+261,2022,8/5/22,Catfish,dla,yes,A,U,2,10,yes,no,NA,NA,uninfected,,adult
+262,2022,8/5/22,Catfish,dla,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+263,2022,4/8/22,Chapman,cer,no,NA,U,25,NA,no,no,NA,NA,uninfected,,check
+55,2021,6/2/21,Big Sister,NA,NA,NA,NA,NA,NA,NA,yes,NA,NA,NA,,check
+265,2022,4/8/22,Chapman,dam,yes,A,G,1,0,no,no,NA,NA,gurleya,,adult
+266,2022,4/8/22,Chapman,dam,yes,A,L,26,10,no,no,NA,NA,larssonia,,adult
+267,2022,4/8/22,Chapman,dam,yes,A,U,116,316,no,no,NA,NA,uninfected,,adult
+268,2022,4/8/22,Chapman,dam,yes,J,U,263,NA,no,no,NA,NA,uninfected,,juvenile
+269,2022,4/8/22,Chapman,dia,no,NA,U,10,NA,no,no,NA,NA,uninfected,,check
+270,2022,4/8/22,Chapman,dpa,yes,A,G,1,0,no,no,NA,NA,gurleya,,adult
+158,2022,8/5/22,Big Sister,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+272,2022,4/8/22,Chapman,dpa,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+273,2022,4/8/22,Chapman,dpa,yes,A,U,98,462,no,no,NA,NA,uninfected,,adult
+274,2022,4/8/22,Chapman,dpa,yes,J,U,101,NA,no,no,NA,NA,uninfected,,juvenile
+275,2022,4/27/22,Chapman,cer,no,NA,U,115,NA,yes,no,NA,NA,uninfected,,check
+276,2022,4/27/22,Chapman,dam,yes,A,L,1,1,yes,no,NA,NA,larssonia,,adult
+277,2022,4/27/22,Chapman,dam,yes,A,G,1,0,yes,no,NA,NA,gurleya,,adult
+278,2022,4/27/22,Chapman,dam,yes,A,U,14,31,yes,no,NA,NA,uninfected,,adult
+279,2022,4/27/22,Chapman,dam,yes,J,U,47,NA,yes,no,NA,NA,uninfected,,juvenile
+280,2022,4/27/22,Chapman,dia,no,NA,U,10,NA,yes,no,NA,NA,uninfected,,check
+281,2022,4/27/22,Chapman,dpa,yes,A,G,1,0,yes,no,NA,NA,gurleya,,adult
+282,2022,4/27/22,Chapman,dpa,yes,A,U,13,34,yes,no,NA,NA,uninfected,,adult
+283,2022,4/27/22,Chapman,dpa,yes,J,U,24,NA,yes,no,NA,NA,uninfected,,juvenile
+203,2021,9/14/21,Catfish,NA,NA,NA,NA,NA,NA,yes,no,NA,NA,NA,,check
+285,2022,5/25/22,Chapman,cer,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+286,2022,5/25/22,Chapman,cer,no,NA,B,8,NA,no,no,NA,NA,brood,,check
+287,2022,5/25/22,Chapman,cer,no,NA,U,360,NA,no,no,NA,NA,uninfected,,check
+288,2022,5/25/22,Chapman,dam,yes,A,U,3,0,no,no,NA,NA,uninfected,,adult
+289,2022,5/25/22,Chapman,dam,yes,J,U,13,NA,no,no,NA,NA,uninfected,,juvenile
+290,2022,5/25/22,Chapman,dpa,yes,A,G,1,0,no,no,NA,NA,gurleya,,adult
+291,2022,5/25/22,Chapman,dpa,yes,A,B,2,0,no,no,NA,NA,brood,,adult
+292,2022,5/25/22,Chapman,dpa,yes,A,U,21,3,no,no,NA,NA,uninfected,,adult
+293,2022,5/25/22,Chapman,dpa,yes,J,U,13,NA,no,no,NA,NA,uninfected,,juvenile
+294,2022,6/20/22,Chapman,bos,no,NA,U,11,NA,yes,no,NA,NA,uninfected,,check
+295,2022,6/20/22,Chapman,cer,no,NA,U,41,NA,yes,no,NA,NA,uninfected,,check
+296,2022,6/20/22,Chapman,dam,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+297,2022,6/20/22,Chapman,dam,yes,J,U,15,NA,yes,no,NA,NA,uninfected,,juvenile
+298,2022,6/20/22,Chapman,dpa,yes,A,U,31,81,yes,no,NA,NA,uninfected,,adult
+299,2022,6/20/22,Chapman,dpa,yes,J,U,37,NA,yes,no,NA,NA,uninfected,,juvenile
+300,2022,7/15/22,Chapman,cer,no,NA,U,4,NA,yes,yes,NA,NA,uninfected,,check
+301,2022,7/15/22,Chapman,dpa,yes,A,U,2,1,yes,yes,NA,NA,uninfected,,adult
+302,2022,7/15/22,Chapman,dpa,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+303,2022,8/9/22,Chapman,bos,no,NA,U,4,NA,yes,no,NA,NA,uninfected,,check
+304,2022,8/9/22,Chapman,cer,no,NA,L,2,NA,yes,no,NA,NA,larssonia,,check
+305,2022,8/9/22,Chapman,cer,no,NA,U,171,NA,yes,no,NA,NA,uninfected,,check
+306,2022,8/9/22,Chapman,dam,yes,A,U,11,14,yes,no,NA,NA,uninfected,,adult
+307,2022,8/9/22,Chapman,dam,yes,J,U,22,NA,yes,no,NA,NA,uninfected,,juvenile
+308,2022,8/9/22,Chapman,dpa,yes,A,U,4,6,yes,no,NA,NA,uninfected,,adult
+309,2021,4/2/21,Deans,bos,no,NA,U,183,NA,no,no,NA,NA,uninfected,,check
+310,2021,4/2/21,Deans,cer,no,NA,U,48,NA,no,no,NA,NA,uninfected,,check
+311,2021,4/2/21,Deans,dam,no,NA,U,23,NA,no,no,NA,NA,uninfected,,check
+312,2021,4/2/21,Deans,dpa,no,NA,U,20,NA,no,no,NA,NA,uninfected,,check
+313,2021,4/14/21,Deans,dam,yes,A,L,1,11,no,no,bos + dia + cer,NA,larssonia,,adult
+314,2021,4/14/21,Deans,dam,yes,A,L,3,0,no,no,bos + dia + cer,NA,larssonia,,adult
+315,2021,4/14/21,Deans,dam,yes,A,U,54,41,no,no,bos + dia + cer,NA,uninfected,,adult
+316,2021,4/14/21,Deans,dam,yes,E,U,1,NA,no,no,bos + dia + cer,NA,uninfected,,ephippial
+317,2021,4/14/21,Deans,dam,yes,J,U,65,NA,no,no,bos + dia + cer,NA,uninfected,,juvenile
+318,2021,4/14/21,Deans,dla,yes,E,U,1,NA,no,no,bos + dia + cer,NA,uninfected,,ephippial
+319,2021,4/14/21,Deans,dla,yes,J,U,1,NA,no,no,bos + dia + cer,NA,uninfected,,juvenile
+320,2021,4/14/21,Deans,dpa,yes,A,L,2,0,no,no,bos + dia + cer,NA,larssonia,,adult
+321,2021,4/14/21,Deans,dpa,yes,A,U,85,74,no,no,bos + dia + cer,NA,uninfected,,adult
+322,2021,4/14/21,Deans,dpa,yes,E,U,1,NA,no,no,bos + dia + cer,NA,uninfected,,ephippial
+323,2021,4/14/21,Deans,dpa,yes,J,U,66,NA,no,no,bos + dia + cer,NA,uninfected,,juvenile
+324,2021,4/14/21,Deans,dpa,yes,M,U,1,NA,no,no,bos + dia + cer,NA,uninfected,,male
+325,2021,4/21/21,Deans,dam,yes,A,L,23,2,yes,no,NA,a few laevis,larssonia,,adult
+326,2021,4/21/21,Deans,dam,yes,A,U,111,85,yes,no,NA,a few laevis,uninfected,,adult
+327,2021,4/21/21,Deans,dam,yes,J,U,70,NA,yes,no,NA,a few laevis,uninfected,,juvenile
+328,2021,4/21/21,Deans,dpa,yes,A,L,7,0,yes,no,NA,a few laevis,larssonia,,adult
+329,2021,4/21/21,Deans,dpa,yes,A,U,58,64,yes,no,NA,a few laevis,uninfected,,adult
+330,2021,4/21/21,Deans,dpa,yes,J,U,83,NA,yes,no,NA,a few laevis,uninfected,,juvenile
+331,2021,4/21/21,Deans,dpa,yes,M,U,1,NA,yes,no,NA,a few laevis,uninfected,,male
+332,2021,4/28/21,Deans,dam,yes,A,L,5,0,no,no,NA,NA,larssonia,,adult
+333,2021,4/28/21,Deans,dam,yes,A,U,123,185,no,no,NA,NA,uninfected,,adult
+334,2021,4/28/21,Deans,dam,yes,J,U,66,NA,no,no,NA,NA,uninfected,,juvenile
+335,2021,4/28/21,Deans,dpa,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+336,2021,4/28/21,Deans,dpa,yes,A,U,56,92,no,no,NA,NA,uninfected,,adult
+337,2021,4/28/21,Deans,dpa,yes,J,U,69,NA,no,no,NA,NA,uninfected,,juvenile
+338,2021,5/5/21,Deans,dam,yes,A,L,8,2,no,no,cer,lots cer; at least one L,larssonia,,adult
+339,2021,5/5/21,Deans,dam,yes,A,U,84,109,no,no,cer,lots cer; at least one L,uninfected,,adult
+340,2021,5/5/21,Deans,dam,yes,J,U,56,NA,no,no,cer,lots cer; at least one L,uninfected,,juvenile
+341,2021,5/5/21,Deans,dpa,yes,A,U,31,34,no,no,cer,lots cer; at least one L,uninfected,,adult
+342,2021,5/5/21,Deans,dpa,yes,J,U,19,NA,no,no,cer,lots cer; at least one L,uninfected,,juvenile
+343,2021,5/12/21,Deans,dam,yes,A,L,2,0,yes,no,cer,some infected cer,larssonia,,adult
+344,2021,5/12/21,Deans,dam,yes,A,U,47,80,yes,no,cer,some infected cer,uninfected,,adult
+345,2021,5/12/21,Deans,dam,yes,J,U,35,NA,yes,no,cer,some infected cer,uninfected,,juvenile
+346,2021,5/12/21,Deans,dpa,yes,A,L,1,0,yes,no,cer,some infected cer,larssonia,,adult
+347,2021,5/12/21,Deans,dpa,yes,A,U,12,23,yes,no,cer,some infected cer,uninfected,,adult
+348,2021,5/12/21,Deans,dpa,yes,J,U,9,NA,yes,no,cer,some infected cer,uninfected,,juvenile
+349,2021,5/19/21,Deans,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+350,2021,5/19/21,Deans,dam,yes,A,U,49,81,yes,no,NA,NA,uninfected,,adult
+351,2021,5/19/21,Deans,dam,yes,J,U,48,NA,yes,no,NA,NA,uninfected,,juvenile
+352,2021,5/19/21,Deans,dpa,yes,A,U,27,65,yes,no,NA,NA,uninfected,,adult
+353,2021,5/19/21,Deans,dpa,yes,J,U,12,NA,yes,no,NA,NA,uninfected,,juvenile
+354,2021,5/26/21,Deans,dam,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+355,2021,5/26/21,Deans,dam,yes,A,U,94,156,yes,no,NA,NA,uninfected,,adult
+356,2021,5/26/21,Deans,dam,yes,J,U,71,NA,yes,no,NA,NA,uninfected,,juvenile
+357,2021,5/26/21,Deans,dpa,yes,A,U,20,43,yes,no,NA,NA,uninfected,,adult
+358,2021,5/26/21,Deans,dpa,yes,J,U,8,NA,yes,no,NA,NA,uninfected,,juvenile
+359,2021,6/2/21,Deans,dam,yes,A,L,2,1,no,no,NA,NA,larssonia,,adult
+360,2021,6/2/21,Deans,dam,yes,A,U,134,207,no,no,NA,NA,uninfected,,adult
+361,2021,6/2/21,Deans,dam,yes,E,L,1,NA,no,no,NA,NA,larssonia,,ephippial
+362,2021,6/2/21,Deans,dam,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+363,2021,6/2/21,Deans,dam,yes,J,U,198,NA,no,no,NA,NA,uninfected,,juvenile
+364,2021,6/2/21,Deans,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+365,2021,6/2/21,Deans,dpa,yes,A,U,26,22,no,no,NA,NA,uninfected,,adult
+366,2021,6/2/21,Deans,dpa,yes,J,U,28,NA,no,no,NA,NA,uninfected,,juvenile
+367,2021,6/23/21,Deans,dam,yes,A,L,3,0,no,no,dia,NA,larssonia,,adult
+368,2021,6/23/21,Deans,dam,yes,A,U,152,140,no,no,dia,NA,uninfected,,adult
+369,2021,6/23/21,Deans,dam,yes,J,U,219,NA,no,no,dia,NA,uninfected,,juvenile
+370,2021,6/23/21,Deans,dpa,yes,A,U,134,158,no,no,dia,NA,uninfected,,adult
+371,2021,6/23/21,Deans,dpa,yes,J,U,62,NA,no,no,dia,NA,uninfected,,juvenile
+372,2021,7/13/21,Deans,dam,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+373,2021,7/13/21,Deans,dam,yes,A,U,106,2,no,no,NA,NA,uninfected,,adult
+374,2021,7/13/21,Deans,dam,yes,J,U,106,NA,no,no,NA,NA,uninfected,,juvenile
+375,2021,7/13/21,Deans,dia,no,NA,L,20,NA,no,no,NA,NA,larssonia,,check
+376,2021,7/13/21,Deans,dia,no,NA,U,235,NA,no,no,NA,NA,uninfected,,check
+377,2021,7/13/21,Deans,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+378,2021,7/13/21,Deans,dpa,yes,A,U,84,7,no,no,NA,NA,uninfected,,adult
+379,2021,7/13/21,Deans,dpa,yes,J,U,85,NA,no,no,NA,NA,uninfected,,juvenile
+380,2021,8/4/21,Deans,dla,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+381,2021,8/4/21,Deans,dpa,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+382,2021,8/4/21,Deans,dpa,yes,A,U,18,18,yes,no,NA,NA,uninfected,,adult
+383,2021,8/4/21,Deans,dpa,yes,J,U,9,NA,yes,no,NA,NA,uninfected,,juvenile
+384,2021,8/26/21,Deans,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+385,2021,8/26/21,Deans,dam,yes,A,U,5,5,yes,no,NA,NA,uninfected,,adult
+386,2021,8/26/21,Deans,dam,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+387,2021,8/26/21,Deans,dpa,yes,A,U,25,33,yes,no,NA,NA,uninfected,,adult
+388,2021,8/26/21,Deans,dpa,yes,J,U,17,NA,yes,no,NA,NA,uninfected,,juvenile
+389,2021,9/14/21,Deans,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+390,2021,9/14/21,Deans,dam,yes,A,U,12,5,yes,no,NA,NA,uninfected,,adult
+391,2021,9/14/21,Deans,dam,yes,J,U,22,NA,yes,no,NA,NA,uninfected,,juvenile
+392,2021,9/14/21,Deans,dpa,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+393,2021,9/14/21,Deans,dpa,yes,A,U,76,41,yes,no,NA,NA,uninfected,,adult
+394,2021,9/14/21,Deans,dpa,yes,J,U,59,NA,yes,no,NA,NA,uninfected,,juvenile
+395,2021,10/12/21,Deans,dam,yes,A,L,2,0,yes,no,cer,NA,larssonia,,adult
+396,2021,10/12/21,Deans,dam,yes,A,U,34,41,yes,no,cer,NA,uninfected,,adult
+397,2021,10/12/21,Deans,dam,yes,J,U,28,NA,yes,no,cer,NA,uninfected,,juvenile
+398,2021,10/12/21,Deans,dpa,yes,A,L,1,0,yes,no,cer,NA,larssonia,,adult
+399,2021,10/12/21,Deans,dpa,yes,A,U,20,36,yes,no,cer,NA,uninfected,,adult
+400,2021,10/12/21,Deans,dpa,yes,J,U,13,NA,yes,no,cer,NA,uninfected,,juvenile
+401,2021,11/2/21,Deans,dam,yes,A,U,11,11,yes,no,NA,NA,uninfected,,adult
+402,2021,11/2/21,Deans,dam,yes,J,U,29,NA,yes,no,NA,NA,uninfected,,juvenile
+403,2021,11/22/21,Deans,cer,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+404,2021,11/22/21,Deans,cer,no,NA,U,60,NA,no,no,NA,NA,uninfected,,check
+405,2021,11/22/21,Deans,dam,yes,A,U,52,67,no,no,NA,NA,uninfected,,adult
+406,2021,11/22/21,Deans,dam,yes,J,U,97,NA,no,no,NA,NA,uninfected,,juvenile
+407,2021,11/22/21,Deans,dia,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+408,2021,11/22/21,Deans,dia,no,NA,U,106,NA,no,no,NA,NA,uninfected,,check
+409,2021,11/22/21,Deans,dpa,yes,A,U,22,23,no,no,NA,NA,uninfected,,adult
+410,2021,11/22/21,Deans,dpa,yes,J,U,10,NA,no,no,NA,NA,uninfected,,juvenile
+411,2021,12/14/21,Deans,cer,no,NA,U,124,NA,no,no,NA,NA,uninfected,,check
+412,2021,12/14/21,Deans,dam,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+413,2021,12/14/21,Deans,dam,yes,A,U,107,174,no,no,NA,NA,uninfected,,adult
+414,2021,12/14/21,Deans,dam,yes,J,U,227,NA,no,no,NA,NA,uninfected,,juvenile
+415,2021,12/14/21,Deans,dia,no,NA,U,104,NA,no,no,NA,NA,uninfected,,check
+416,2021,12/14/21,Deans,dpa,yes,A,U,8,13,no,no,NA,NA,uninfected,,adult
+417,2021,12/14/21,Deans,dpa,yes,J,U,2,NA,no,no,NA,NA,uninfected,,juvenile
+418,2022,1/5/22,Deans,cer,no,NA,U,102,NA,no,no,NA,NA,uninfected,,check
+419,2022,1/5/22,Deans,dam,yes,A,U,94,109,no,no,NA,NA,uninfected,,adult
+420,2022,1/5/22,Deans,dam,yes,J,U,207,NA,no,no,NA,NA,uninfected,,juvenile
+421,2022,1/5/22,Deans,dia,no,NA,U,42,NA,no,no,NA,NA,uninfected,,check
+422,2022,1/5/22,Deans,dpa,yes,A,U,13,9,no,no,NA,NA,uninfected,,adult
+423,2022,1/5/22,Deans,dpa,yes,J,U,24,NA,no,no,NA,NA,uninfected,,juvenile
+424,2022,1/27/22,Deans,cer,no,NA,U,124,NA,no,no,NA,NA,uninfected,,check
+425,2022,1/27/22,Deans,dam,yes,A,L,2,NA,no,no,NA,NA,larssonia,,adult
+426,2022,1/27/22,Deans,dam,yes,A,U,131,206,no,no,NA,NA,uninfected,,adult
+427,2022,1/27/22,Deans,dam,yes,J,U,250,NA,no,no,NA,NA,uninfected,,juvenile
+428,2022,1/27/22,Deans,dia,no,NA,U,65,NA,no,no,NA,NA,uninfected,,check
+429,2022,1/27/22,Deans,dpa,yes,A,U,31,40,no,no,NA,NA,uninfected,,adult
+430,2022,1/27/22,Deans,dpa,yes,J,U,51,NA,no,no,NA,NA,uninfected,,juvenile
+431,2022,1/27/22,Deans,dpa,yes,M,U,4,NA,no,no,NA,NA,uninfected,,male
+432,2022,2/18/22,Deans,cer,no,NA,U,4,NA,no,no,NA,NA,uninfected,,check
+433,2022,2/18/22,Deans,dam,yes,A,U,125,172,no,no,NA,NA,uninfected,,adult
+434,2022,2/18/22,Deans,dam,yes,J,U,208,NA,no,no,NA,NA,uninfected,,juvenile
+435,2022,2/18/22,Deans,dia,no,NA,U,4,NA,no,no,NA,NA,uninfected,,check
+436,2022,2/18/22,Deans,dla,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+437,2022,2/18/22,Deans,dpa,yes,A,U,9,12,no,no,NA,NA,uninfected,,adult
+438,2022,2/18/22,Deans,dpa,yes,J,U,14,NA,no,no,NA,NA,uninfected,,juvenile
+439,2022,3/7/22,Deans,cer,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+440,2022,3/7/22,Deans,dam,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+441,2022,3/7/22,Deans,dam,yes,A,U,200,356,no,no,NA,NA,uninfected,,adult
+442,2022,3/7/22,Deans,dam,yes,E,U,2,NA,no,no,NA,NA,uninfected,,ephippial
+443,2022,3/7/22,Deans,dam,yes,J,U,158,NA,no,no,NA,NA,uninfected,,juvenile
+444,2022,3/7/22,Deans,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+445,2022,3/7/22,Deans,dia,no,NA,U,8,NA,no,no,NA,NA,uninfected,,check
+446,2022,3/7/22,Deans,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+447,2022,3/7/22,Deans,dpa,yes,A,U,27,84,no,no,NA,NA,uninfected,,adult
+448,2022,3/7/22,Deans,dpa,yes,J,U,23,NA,no,no,NA,NA,uninfected,,juvenile
+449,2022,3/28/22,Deans,cer,no,NA,U,13,NA,no,no,NA,NA,uninfected,,check
+450,2022,3/28/22,Deans,dam,yes,A,L,20,2,no,no,NA,NA,larssonia,,adult
+451,2022,3/28/22,Deans,dam,yes,A,U,117,85,no,no,NA,NA,uninfected,,adult
+452,2022,3/28/22,Deans,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+453,2022,3/28/22,Deans,dam,yes,J,U,196,NA,no,no,NA,NA,uninfected,,juvenile
+454,2022,3/28/22,Deans,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+455,2022,3/28/22,Deans,dia,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+456,2022,3/28/22,Deans,dia,no,NA,U,34,NA,no,no,NA,NA,uninfected,,check
+457,2022,3/28/22,Deans,dpa,yes,A,U,23,13,no,no,NA,NA,uninfected,,adult
+458,2022,3/28/22,Deans,dpa,yes,J,U,25,NA,no,no,NA,NA,uninfected,,juvenile
+459,2022,4/21/22,Deans,cer,no,NA,U,122,NA,no,no,NA,NA,uninfected,,check
+460,2022,4/21/22,Deans,dam,yes,A,L,12,0,no,no,NA,NA,larssonia,,adult
+461,2022,4/21/22,Deans,dam,yes,A,U,25,30,no,no,NA,NA,uninfected,,adult
+462,2022,4/21/22,Deans,dam,yes,J,U,55,NA,no,no,NA,NA,uninfected,,juvenile
+463,2022,4/21/22,Deans,dia,no,NA,L,16,NA,no,no,NA,NA,larssonia,,check
+464,2022,4/21/22,Deans,dia,no,NA,U,177,NA,no,no,NA,NA,uninfected,,check
+465,2022,4/21/22,Deans,dla,yes,A,U,1,4,no,no,NA,NA,uninfected,,adult
+466,2022,4/21/22,Deans,dla,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+467,2022,4/21/22,Deans,dpa,yes,A,L,4,1,no,no,NA,NA,larssonia,,adult
+468,2022,4/21/22,Deans,dpa,yes,A,U,38,34,no,no,NA,NA,uninfected,,adult
+469,2022,4/21/22,Deans,dpa,yes,J,U,40,NA,no,no,NA,NA,uninfected,,juvenile
+470,2022,5/11/22,Deans,cer,no,NA,U,113,NA,no,no,NA,NA,uninfected,,check
+471,2022,5/11/22,Deans,dam,yes,A,U,39,41,no,no,NA,NA,uninfected,,adult
+472,2022,5/11/22,Deans,dam,yes,J,U,41,NA,no,no,NA,NA,uninfected,,juvenile
+473,2022,5/11/22,Deans,dia,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+474,2022,5/11/22,Deans,dia,no,NA,U,131,NA,no,no,NA,NA,uninfected,,check
+475,2022,5/11/22,Deans,dpa,yes,A,U,22,20,no,no,NA,NA,uninfected,,adult
+476,2022,5/11/22,Deans,dpa,yes,J,U,41,NA,no,no,NA,NA,uninfected,,juvenile
+505,2021,4/14/21,Deer,bos,no,NA,NA,3,NA,no,no,NA,way undercounted bos,NA,,check
+478,2022,6/3/22,Deans,bos,no,NA,U,164,NA,no,no,NA,NA,uninfected,,check
+552,2021,6/2/21,Deer,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+480,2022,6/3/22,Deans,cer,no,NA,U,261,NA,no,no,NA,NA,uninfected,,check
+481,2022,6/3/22,Deans,dam,yes,A,U,19,27,no,no,NA,NA,uninfected,,adult
+482,2022,6/3/22,Deans,dam,yes,J,U,49,NA,no,no,NA,NA,uninfected,,juvenile
+483,2022,6/3/22,Deans,dla,yes,A,U,2,0,no,no,NA,NA,uninfected,,adult
+484,2022,6/3/22,Deans,dpa,yes,A,U,112,138,no,no,NA,NA,uninfected,,adult
+485,2022,6/3/22,Deans,dpa,yes,J,U,80,NA,no,no,NA,NA,uninfected,,juvenile
+486,2022,6/22/22,Deans,bos,no,NA,U,119,NA,no,no,NA,NA,uninfected,,check
+487,2022,6/22/22,Deans,cer,no,NA,U,365,NA,no,no,NA,NA,uninfected,,check
+488,2022,6/22/22,Deans,dam,yes,A,U,39,50,no,no,NA,NA,uninfected,,adult
+489,2022,6/22/22,Deans,dam,yes,J,U,47,NA,no,no,NA,NA,uninfected,,juvenile
+490,2022,6/22/22,Deans,dia,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+491,2022,6/22/22,Deans,dpa,yes,A,U,5,5,no,no,NA,NA,uninfected,,adult
+492,2022,6/22/22,Deans,dpa,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+493,2022,7/13/22,Deans,bos,no,NA,M,3,NA,no,no,NA,NA,metsch,,check
+494,2022,7/13/22,Deans,bos,no,NA,U,544,NA,no,no,NA,NA,uninfected,,check
+495,2022,7/13/22,Deans,cer,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+496,2022,7/13/22,Deans,cer,no,NA,U,70,NA,no,no,NA,NA,uninfected,,check
+497,2022,7/13/22,Deans,dam,yes,A,U,10,6,no,no,NA,NA,uninfected,,adult
+498,2022,7/13/22,Deans,dam,yes,J,U,13,NA,no,no,NA,NA,uninfected,,juvenile
+499,2022,7/13/22,Deans,dia,no,NA,U,3,NA,no,no,NA,NA,uninfected,,check
+500,2022,7/13/22,Deans,dpa,yes,A,U,5,5,no,no,NA,NA,uninfected,,adult
+501,2022,7/13/22,Deans,dpa,yes,J,U,9,NA,no,no,NA,NA,uninfected,,juvenile
+502,2022,8/5/22,Deans,bos,no,NA,M,1,NA,no,no,NA,NA,metsch,,check
+503,2022,8/5/22,Deans,bos,no,NA,U,530,NA,no,no,NA,NA,uninfected,,check
+504,2022,8/5/22,Deans,cer,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+558,2021,8/26/21,Deer,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+506,2021,4/14/21,Deer,dam,yes,A,U,1,8,no,no,NA,"probably dpa, not dam",uninfected,,adult
+507,2021,4/14/21,Deer,dam,yes,J,U,25,NA,no,no,NA,"probably dpa, not dam",uninfected,,juvenile
+508,2021,4/14/21,Deer,dam,yes,M,B,8,NA,no,no,NA,"probably dpa, not dam",brood,,male
+509,2021,4/14/21,Deer,dla,yes,A,U,2,NA,no,no,NA,NA,uninfected,,adult
+510,2021,4/14/21,Deer,dla,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+511,2021,4/14/21,Deer,dla,yes,A,U,12,19,no,no,NA,NA,uninfected,,adult
+512,2021,4/14/21,Deer,dla,yes,E,U,4,NA,no,no,NA,NA,uninfected,,ephippial
+513,2021,4/14/21,Deer,dla,yes,J,U,230,NA,no,no,NA,NA,uninfected,,juvenile
+514,2021,4/14/21,Deer,dla,yes,M,U,6,NA,no,no,NA,NA,uninfected,,male
+515,2021,4/21/21,Deer,dam,yes,A,U,1,0,no,no,NA,NA,uninfected,,adult
+516,2021,4/21/21,Deer,dam,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+517,2021,4/21/21,Deer,dam,yes,A,U,42,0,no,no,NA,NA,uninfected,,adult
+518,2021,4/21/21,Deer,dam,yes,J,U,24,NA,no,no,NA,NA,uninfected,,juvenile
+519,2021,4/21/21,Deer,dam,yes,M,U,8,NA,no,no,NA,NA,uninfected,,male
+520,2021,4/21/21,Deer,dla,yes,A,L,8,0,no,no,NA,NA,larssonia,,adult
+521,2021,4/21/21,Deer,dla,yes,A,U,104,9,no,no,NA,NA,uninfected,,adult
+522,2021,4/21/21,Deer,dla,yes,J,U,202,NA,no,no,NA,NA,uninfected,,juvenile
+523,2021,4/21/21,Deer,dla,yes,M,U,2,NA,no,no,NA,NA,uninfected,,male
+524,2021,4/28/21,Deer,dam,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+525,2021,4/28/21,Deer,dam,yes,A,U,26,28,no,no,NA,NA,uninfected,,adult
+526,2021,4/28/21,Deer,dam,yes,J,U,13,NA,no,no,NA,NA,uninfected,,juvenile
+527,2021,4/28/21,Deer,dam,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+528,2021,4/28/21,Deer,dla,yes,A,L,7,0,no,no,NA,NA,larssonia,,adult
+529,2021,4/28/21,Deer,dla,yes,A,U,88,234,no,no,NA,NA,uninfected,,adult
+530,2021,4/28/21,Deer,dla,yes,J,L,4,NA,no,no,NA,NA,larssonia,,juvenile
+531,2021,4/28/21,Deer,dla,yes,J,U,206,NA,no,no,NA,NA,uninfected,,juvenile
+532,2021,5/5/21,Deer,dam,yes,A,L,1,0,no,no,dia,NA,larssonia,,adult
+533,2021,5/5/21,Deer,dam,yes,A,U,10,0,no,no,dia,NA,uninfected,,adult
+534,2021,5/5/21,Deer,dam,yes,E,U,2,NA,no,no,dia,NA,uninfected,,ephippial
+535,2021,5/5/21,Deer,dam,yes,J,U,4,NA,no,no,dia,NA,uninfected,,juvenile
+536,2021,5/5/21,Deer,dam,yes,M,U,2,NA,no,no,dia,NA,uninfected,,male
+537,2021,5/5/21,Deer,dla,yes,A,L,18,0,no,no,dia,NA,larssonia,,adult
+538,2021,5/5/21,Deer,dla,yes,A,U,81,78,no,no,dia,NA,uninfected,,adult
+539,2021,5/5/21,Deer,dla,yes,E,U,8,NA,no,no,dia,NA,uninfected,,ephippial
+540,2021,5/5/21,Deer,dla,yes,J,U,282,NA,no,no,dia,NA,uninfected,,juvenile
+541,2021,5/5/21,Deer,dla,yes,M,U,38,NA,no,no,dia,NA,uninfected,,male
+542,2021,5/12/21,Deer,dla,yes,A,U,62,20,no,no,NA,NA,uninfected,,adult
+543,2021,5/12/21,Deer,dla,yes,J,U,274,NA,no,no,NA,NA,uninfected,,juvenile
+544,2021,5/12/21,Deer,dla,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+545,2021,5/19/21,Deer,dla,yes,A,L,3,0,no,no,dia,lots diaphanosoma; some infected,larssonia,,adult
+546,2021,5/19/21,Deer,dla,yes,A,U,79,85,no,no,dia,lots diaphanosoma; some infected,uninfected,,adult
+547,2021,5/19/21,Deer,dla,yes,J,L,3,NA,no,no,dia,lots diaphanosoma; some infected,larssonia,,juvenile
+548,2021,5/19/21,Deer,dla,yes,J,U,224,NA,no,no,dia,lots diaphanosoma; some infected,uninfected,,juvenile
+549,2021,5/19/21,Deer,dla,yes,M,U,1,NA,no,no,dia,lots diaphanosoma; some infected,uninfected,,male
+550,2021,5/26/21,Deer,dla,yes,A,U,1,6,yes,yes,NA,NA,uninfected,,adult
+551,2021,5/26/21,Deer,dla,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+561,2021,10/12/21,Deer,NA,NA,NA,NA,NA,NA,yes,yes,NA,all alonellids,NA,,check
+553,2021,6/23/21,Deer,dla,yes,A,U,3,4,yes,no,NA,NA,uninfected,,adult
+554,2021,6/23/21,Deer,dla,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+555,2021,7/13/21,Deer,dla,yes,A,U,1,9,yes,yes,NA,NA,uninfected,,adult
+556,2021,8/4/21,Deer,dla,yes,A,U,8,5,yes,no,NA,NA,uninfected,,adult
+557,2021,8/4/21,Deer,dla,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+562,2021,11/2/21,Deer,NA,NA,NA,NA,NA,NA,yes,yes,NA,lots bosmina & alona,NA,,check
+559,2021,9/14/21,Deer,dia,no,NA,L,5,NA,no,no,NA,NA,larssonia,,check
+560,2021,9/14/21,Deer,dia,no,NA,U,369,NA,no,no,NA,NA,uninfected,,check
+618,2022,7/13/22,Deer,NA,NA,NA,NA,NA,NA,yes,yes,NA,ostracods only,NA,,check
+623,2021,4/14/21,Herrick,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+563,2021,11/22/21,Deer,dam,yes,A,L,1,0,yes,no,NA,check to see if actually ambigua,larssonia,,adult
+564,2021,11/22/21,Deer,dam,yes,A,U,7,20,yes,no,NA,check to see if actually ambigua,uninfected,,adult
+565,2021,11/22/21,Deer,dam,yes,J,U,3,NA,yes,no,NA,check to see if actually ambigua,uninfected,,juvenile
+566,2021,12/14/21,Deer,dam,yes,A,U,49,225,yes,no,NA,check to see if actually ambigua,uninfected,,adult
+567,2021,12/14/21,Deer,dam,yes,J,U,118,NA,yes,no,NA,check to see if actually ambigua,uninfected,,juvenile
+568,2021,12/14/21,Deer,dla,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+569,2022,1/5/22,Deer,dam,yes,A,L,16,32,no,no,NA,NA,larssonia,,adult
+570,2022,1/5/22,Deer,dam,yes,A,U,107,387,no,no,NA,NA,uninfected,,adult
+571,2022,1/5/22,Deer,dam,yes,J,U,284,NA,no,no,NA,NA,uninfected,,juvenile
+572,2022,1/5/22,Deer,dam,yes,M,U,23,NA,no,no,NA,NA,uninfected,,male
+573,2022,1/5/22,Deer,dla,yes,J,U,3,NA,no,no,NA,NA,uninfected,,juvenile
+574,2022,1/27/22,Deer,dam,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+575,2022,1/27/22,Deer,dam,yes,A,U,58,4,no,no,NA,NA,uninfected,,adult
+576,2022,1/27/22,Deer,dam,yes,E,U,11,NA,no,no,NA,NA,uninfected,,ephippial
+577,2022,1/27/22,Deer,dam,yes,J,U,338,NA,no,no,NA,NA,uninfected,,juvenile
+578,2022,1/27/22,Deer,dam,yes,M,U,24,NA,no,no,NA,NA,uninfected,,male
+579,2022,2/18/22,Deer,dam,yes,A,L,8,0,no,no,NA,NA,larssonia,,adult
+580,2022,2/18/22,Deer,dam,yes,A,U,76,125,no,no,NA,NA,uninfected,,adult
+581,2022,2/18/22,Deer,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+582,2022,2/18/22,Deer,dam,yes,J,U,234,NA,no,no,NA,NA,uninfected,,juvenile
+583,2022,2/18/22,Deer,dam,yes,M,U,9,NA,no,no,NA,NA,uninfected,,male
+584,2022,3/7/22,Deer,dam,yes,A,L,31,25,no,no,NA,NA,larssonia,,adult
+585,2022,3/7/22,Deer,dam,yes,A,U,165,363,no,no,NA,NA,uninfected,,adult
+586,2022,3/7/22,Deer,dam,yes,J,L,2,NA,no,no,NA,NA,larssonia,,juvenile
+587,2022,3/7/22,Deer,dam,yes,J,U,152,NA,no,no,NA,NA,uninfected,,juvenile
+588,2022,3/28/22,Deer,dam,yes,A,L,48,4,no,no,NA,NA,larssonia,,adult
+589,2022,3/28/22,Deer,dam,yes,A,U,163,73,no,no,NA,NA,uninfected,,adult
+590,2022,3/28/22,Deer,dam,yes,E,U,16,NA,no,no,NA,NA,uninfected,,ephippial
+591,2022,3/28/22,Deer,dam,yes,J,U,202,NA,no,no,NA,NA,uninfected,,juvenile
+592,2022,3/28/22,Deer,dam,yes,M,U,5,NA,no,no,NA,NA,uninfected,,male
+593,2022,3/28/22,Deer,dla,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+594,2022,3/28/22,Deer,dla,yes,A,U,12,25,no,no,NA,NA,uninfected,,adult
+595,2022,3/28/22,Deer,dla,yes,J,U,33,NA,no,no,NA,NA,uninfected,,juvenile
+596,2022,4/21/22,Deer,dam,yes,A,U,14,0,no,no,NA,NA,uninfected,,adult
+597,2022,4/21/22,Deer,dam,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+624,2021,8/4/21,Herrick,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+599,2022,4/21/22,Deer,dla,yes,A,L,12,1,no,no,NA,NA,larssonia,,adult
+600,2022,4/21/22,Deer,dla,yes,A,B,32,9,no,no,NA,NA,brood,,adult
+601,2022,4/21/22,Deer,dla,yes,A,U,69,54,no,no,NA,NA,uninfected,,adult
+602,2022,4/21/22,Deer,dla,yes,E,U,12,NA,no,no,NA,NA,uninfected,,ephippial
+603,2022,4/21/22,Deer,dla,yes,J,U,215,NA,no,no,NA,NA,uninfected,,juvenile
+604,2022,4/21/22,Deer,dla,yes,M,U,11,NA,no,no,NA,NA,uninfected,,male
+625,2022,1/5/22,Herrick,NA,NA,NA,NA,NA,NA,yes,yes,NA,only copepods,NA,,check
+606,2022,5/11/22,Deer,dla,yes,A,B,14,15,no,no,NA,NA,brood,,adult
+607,2022,5/11/22,Deer,dla,yes,A,L,15,0,no,no,NA,NA,larssonia,,adult
+608,2022,5/11/22,Deer,dla,yes,A,U,106,378,no,no,NA,NA,uninfected,,adult
+609,2022,5/11/22,Deer,dla,yes,E,U,34,NA,no,no,NA,NA,uninfected,,ephippial
+610,2022,5/11/22,Deer,dla,yes,J,L,1,NA,no,no,NA,NA,larssonia,,juvenile
+611,2022,5/11/22,Deer,dla,yes,J,U,152,NA,no,no,NA,NA,uninfected,,juvenile
+612,2022,5/11/22,Deer,dla,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+613,2022,6/3/22,Deer,dla,yes,A,B,12,2,no,no,NA,NA,brood,,adult
+614,2022,6/3/22,Deer,dla,yes,A,U,259,197,no,no,NA,NA,uninfected,,adult
+615,2022,6/3/22,Deer,dla,yes,J,U,92,NA,no,no,NA,NA,uninfected,,juvenile
+616,2022,6/22/22,Deer,dla,yes,A,U,16,10,yes,no,NA,NA,uninfected,,adult
+617,2022,6/22/22,Deer,dla,yes,J,U,171,NA,yes,no,NA,NA,uninfected,,juvenile
+639,2022,5/31/22,Herrick,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+619,2022,8/5/22,Deer,bos,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+620,2022,8/5/22,Deer,dam,yes,A,U,8,11,yes,no,NA,NA,uninfected,,adult
+621,2022,8/5/22,Deer,dam,yes,J,U,9,NA,yes,no,NA,NA,uninfected,,juvenile
+622,2022,8/5/22,Deer,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+648,2022,8/5/22,Herrick,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+687,2021,4/14/21,NN1,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+688,2021,4/21/21,NN1,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+626,2022,2/18/22,Herrick,dam,yes,A,U,1,3,yes,yes,NA,NA,uninfected,,adult
+627,2022,2/18/22,Herrick,dam,yes,J,U,2,NA,yes,yes,NA,NA,uninfected,,juvenile
+628,2022,3/7/22,Herrick,dam,yes,A,U,1,0,yes,yes,NA,NA,uninfected,,adult
+629,2022,3/7/22,Herrick,dam,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+630,2022,3/7/22,Herrick,dpa,yes,A,U,2,15,yes,yes,NA,NA,uninfected,,adult
+631,2022,3/7/22,Herrick,dpa,yes,J,U,2,NA,yes,yes,NA,NA,uninfected,,juvenile
+632,2022,3/28/22,Herrick,dam,yes,A,U,5,26,yes,no,NA,NA,uninfected,,adult
+633,2022,3/28/22,Herrick,dam,yes,J,U,8,NA,yes,no,NA,NA,uninfected,,juvenile
+634,2022,3/28/22,Herrick,dpa,yes,A,U,2,6,yes,no,NA,NA,uninfected,,adult
+635,2022,3/28/22,Herrick,dpa,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+636,2022,4/21/22,Herrick,cer,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+637,2022,4/21/22,Herrick,dam,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+638,2022,4/21/22,Herrick,dia,no,NA,U,1,NA,yes,yes,NA,NA,uninfected,,check
+721,2021,8/4/21,NN3,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+640,2022,6/20/22,Herrick,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+641,2022,6/20/22,Herrick,cer,no,NA,U,17,NA,yes,no,NA,NA,uninfected,,check
+642,2022,6/20/22,Herrick,dam,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+643,2022,6/20/22,Herrick,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+644,2022,6/20/22,Herrick,dpa,yes,A,U,2,0,yes,no,NA,NA,uninfected,,adult
+645,2022,6/20/22,Herrick,dpa,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+646,2022,7/15/22,Herrick,dam,yes,A,U,1,NA,yes,yes,NA,NA,uninfected,,adult
+647,2022,7/15/22,Herrick,dam,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+741,2022,3/7/22,NN3,NA,NA,NA,NA,NA,NA,yes,no,NA,no hosts,NA,,check
+649,2022,4/8/22,Memorial,cer,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+650,2022,4/8/22,Memorial,dia,no,NA,U,9,NA,no,no,NA,NA,uninfected,,check
+651,2022,4/8/22,Memorial,dpa,yes,A,U,112,152,no,no,NA,NA,uninfected,,adult
+652,2022,4/8/22,Memorial,dpa,yes,J,U,251,NA,no,no,NA,NA,uninfected,,juvenile
+653,2022,4/27/22,Memorial,cer,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+654,2022,4/27/22,Memorial,cer,no,NA,U,16,NA,no,no,NA,NA,uninfected,,check
+655,2022,4/27/22,Memorial,dpa,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+656,2022,4/27/22,Memorial,dpa,yes,A,G,21,1,no,no,NA,NA,gurleya,,adult
+657,2022,4/27/22,Memorial,dpa,yes,A,U,111,21,no,no,NA,NA,uninfected,,adult
+658,2022,4/27/22,Memorial,dpa,yes,J,U,267,NA,no,no,NA,NA,uninfected,,juvenile
+659,2022,4/27/22,Memorial,dpa,yes,M,U,4,NA,no,no,NA,NA,uninfected,,male
+660,2022,5/31/22,Memorial,cer,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+661,2022,5/31/22,Memorial,cer,no,NA,U,350,NA,no,no,NA,NA,uninfected,,check
+662,2022,5/31/22,Memorial,dia,no,NA,U,8,NA,no,no,NA,NA,uninfected,,check
+663,2022,5/31/22,Memorial,dpa,yes,A,U,18,26,no,no,NA,NA,uninfected,,adult
+664,2022,5/31/22,Memorial,dpa,yes,J,U,15,NA,no,no,NA,NA,uninfected,,juvenile
+665,2022,6/20/22,Memorial,bos,no,NA,U,52,NA,no,no,NA,NA,uninfected,,check
+666,2022,6/20/22,Memorial,cer,no,NA,L,3,NA,no,no,NA,NA,larssonia,,check
+667,2022,6/20/22,Memorial,cer,no,NA,U,441,NA,no,no,NA,NA,uninfected,,check
+668,2022,6/20/22,Memorial,dia,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+669,2022,6/20/22,Memorial,dia,no,NA,U,15,NA,no,no,NA,NA,uninfected,,check
+670,2022,6/20/22,Memorial,dpa,yes,A,G,1,0,no,no,NA,NA,gurleya,,adult
+671,2022,6/20/22,Memorial,dpa,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+672,2022,6/20/22,Memorial,dpa,yes,A,U,76,20,no,no,NA,NA,uninfected,,adult
+673,2022,6/20/22,Memorial,dpa,yes,J,U,85,NA,no,no,NA,NA,uninfected,,juvenile
+674,2022,7/15/22,Memorial,bos,no,NA,C,1,NA,no,no,NA,NA,chytrid,,check
+675,2022,7/15/22,Memorial,bos,no,NA,U,32,NA,no,no,NA,NA,uninfected,,check
+676,2022,7/15/22,Memorial,cer,no,NA,L,40,NA,no,no,NA,NA,larssonia,,check
+677,2022,7/15/22,Memorial,cer,no,NA,U,438,NA,no,no,NA,NA,uninfected,,check
+678,2022,7/15/22,Memorial,dia,no,NA,U,37,NA,no,no,NA,NA,uninfected,,check
+679,2022,7/15/22,Memorial,dpa,yes,A,U,57,40,no,no,NA,NA,uninfected,,adult
+680,2022,7/15/22,Memorial,dpa,yes,J,U,51,NA,no,no,NA,NA,uninfected,,juvenile
+681,2022,8/9/22,Memorial,bos,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+682,2022,8/9/22,Memorial,cer,no,NA,L,13,NA,yes,no,NA,NA,larssonia,,check
+683,2022,8/9/22,Memorial,cer,no,NA,U,96,NA,yes,no,NA,NA,uninfected,,check
+684,2022,8/9/22,Memorial,dia,no,NA,U,32,NA,yes,no,NA,NA,uninfected,,check
+685,2022,8/9/22,Memorial,dpa,yes,A,U,9,12,yes,no,NA,NA,uninfected,,adult
+686,2022,8/9/22,Memorial,dpa,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+760,2022,7/13/22,NN3,NA,NA,NA,NA,NA,NA,yes,yes,NA,no cladocerans,NA,,check
+812,2022,3/7/22,Parvo,NA,NA,NA,NA,NA,NA,yes,yes,NA,no cladocerans,NA,,check
+689,2021,8/4/21,NN1,dla,yes,A,L,1,0,yes,no,NA,L in head,larssonia,,adult
+690,2021,8/4/21,NN1,dla,yes,A,U,4,3,yes,no,NA,NA,uninfected,,adult
+691,2021,8/4/21,NN1,dla,yes,J,U,37,NA,yes,no,NA,NA,uninfected,,juvenile
+692,2021,4/14/21,NN2,dam,yes,A,U,2,1,yes,no,NA,NA,uninfected,,adult
+693,2021,4/14/21,NN2,dam,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+694,2021,4/14/21,NN2,dla,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+695,2021,4/14/21,NN2,dla,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+696,2021,4/14/21,NN3,dla,yes,A,U,30,151,yes,no,NA,NA,uninfected,,adult
+697,2021,4/14/21,NN3,dla,yes,E,U,7,NA,yes,no,NA,NA,uninfected,,ephippial
+698,2021,4/14/21,NN3,dla,yes,J,U,86,NA,yes,no,NA,NA,uninfected,,juvenile
+699,2021,4/14/21,NN3,dla,yes,M,U,11,NA,yes,no,NA,NA,uninfected,,male
+700,2021,4/21/21,NN3,dam,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+701,2021,4/21/21,NN3,dla,yes,A,U,23,47,yes,no,NA,NA,uninfected,,adult
+702,2021,4/21/21,NN3,dla,yes,J,U,109,NA,yes,no,NA,NA,uninfected,,juvenile
+703,2021,4/28/21,NN3,dla,yes,A,U,23,102,yes,no,NA,NA,uninfected,,adult
+704,2021,4/28/21,NN3,dla,yes,J,U,114,NA,yes,no,NA,NA,uninfected,,juvenile
+705,2021,5/5/21,NN3,dla,yes,A,U,10,43,yes,no,NA,NA,uninfected,,adult
+706,2021,5/5/21,NN3,dla,yes,J,U,23,NA,yes,no,NA,NA,uninfected,,juvenile
+707,2021,5/19/21,NN3,dla,yes,A,U,7,30,yes,no,NA,lots chaoborus,uninfected,,adult
+708,2021,5/19/21,NN3,dla,yes,J,U,5,NA,yes,no,NA,lots chaoborus,uninfected,,juvenile
+709,2021,5/26/21,NN3,dla,yes,A,U,12,58,yes,no,NA,NA,uninfected,,adult
+710,2021,5/26/21,NN3,dla,yes,J,U,35,NA,yes,no,NA,NA,uninfected,,juvenile
+711,2021,6/2/21,NN3,dla,yes,A,U,5,17,yes,no,NA,NA,uninfected,,adult
+712,2021,6/2/21,NN3,dla,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+713,2021,6/23/21,NN3,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+714,2021,6/23/21,NN3,dla,yes,A,U,18,30,yes,no,NA,NA,uninfected,,adult
+715,2021,6/23/21,NN3,dla,yes,J,U,81,NA,yes,no,NA,NA,uninfected,,juvenile
+716,2021,7/13/21,NN3,dla,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+717,2021,7/13/21,NN3,dla,yes,J,U,12,NA,yes,no,NA,NA,uninfected,,juvenile
+718,2021,7/13/21,NN3,sim,yes,A,L,4,9,yes,no,NA,NA,larssonia,,adult
+719,2021,7/13/21,NN3,sim,yes,A,U,17,7,yes,no,NA,NA,uninfected,,adult
+720,2021,7/13/21,NN3,sim,yes,J,U,32,NA,yes,no,NA,NA,uninfected,,juvenile
+832,2021,5/5/21,Sister 1,NA,NA,NA,NA,NA,NA,NA,yes,NA,NA,NA,,check
+722,2021,8/26/21,NN3,dam,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+723,2021,8/26/21,NN3,dla,yes,A,U,3,3,yes,no,NA,NA,uninfected,,adult
+724,2021,8/26/21,NN3,dla,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+725,2021,8/26/21,NN3,sim,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+726,2021,8/26/21,NN3,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+727,2021,10/12/21,NN3,dam,yes,A,U,4,1,yes,no,NA,NA,uninfected,,adult
+728,2021,10/12/21,NN3,dam,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+729,2021,10/12/21,NN3,sim,yes,A,U,9,4,yes,no,NA,NA,uninfected,,adult
+730,2021,10/12/21,NN3,sim,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+731,2021,11/2/21,NN3,dla,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+732,2021,11/22/21,NN3,dla,yes,J,U,2,NA,yes,yes,NA,NA,uninfected,,juvenile
+733,2021,11/22/21,NN3,sim,yes,A,U,1,0,yes,yes,NA,NA,uninfected,,adult
+734,2021,12/14/21,NN3,dla,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+735,2021,12/14/21,NN3,dpa,yes,A,U,1,0,yes,yes,NA,NA,uninfected,,adult
+736,2022,1/5/22,NN3,dla,yes,A,U,1,0,yes,yes,NA,NA,uninfected,,adult
+737,2022,1/27/22,NN3,cer,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+738,2022,1/27/22,NN3,dla,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+739,2022,2/18/22,NN3,dla,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+740,2022,2/18/22,NN3,dpa,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+959,2021,7/13/21,VIP,NA,NA,NA,NA,NA,NA,yes,yes,NA,only copepods,NA,,check
+742,2022,3/28/22,NN3,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+743,2022,3/28/22,NN3,dam,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+744,2022,3/28/22,NN3,dla,yes,A,U,6,14,yes,no,NA,NA,uninfected,,adult
+745,2022,3/28/22,NN3,dla,yes,J,U,27,NA,yes,no,NA,NA,uninfected,,juvenile
+746,2022,4/21/22,NN3,dam,yes,A,L,1,2,yes,no,NA,NA,larssonia,,adult
+747,2022,4/21/22,NN3,dam,yes,A,U,5,11,yes,no,NA,NA,uninfected,,adult
+748,2022,4/21/22,NN3,dam,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+749,2022,4/21/22,NN3,dla,yes,A,U,1,8,yes,no,NA,NA,uninfected,,adult
+750,2022,4/21/22,NN3,dla,yes,J,U,9,NA,yes,no,NA,NA,uninfected,,juvenile
+751,2022,4/21/22,NN3,sim,no,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+752,2022,5/31/22,NN3,dia,no,NA,U,7,NA,yes,no,NA,NA,uninfected,,check
+753,2022,5/31/22,NN3,dla,yes,J,U,9,NA,yes,no,NA,NA,uninfected,,juvenile
+754,2022,5/31/22,NN3,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+755,2022,5/31/22,NN3,unk,no,NA,U,2,NA,yes,no,NA,"big cladoceran, unknown sp",uninfected,,check
+756,2022,6/22/22,NN3,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+757,2022,6/22/22,NN3,dla,yes,A,U,29,101,yes,no,NA,NA,uninfected,,adult
+758,2022,6/22/22,NN3,dla,yes,J,U,63,NA,yes,no,NA,NA,uninfected,,juvenile
+759,2022,6/22/22,NN3,sim,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+961,2021,8/24/21,VIP,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+761,2022,8/5/22,NN3,sim,yes,J,U,3,NA,yes,yes,NA,NA,uninfected,,juvenile
+762,2022,4/8/22,Oglethorpe,cer,no,NA,U,75,NA,no,no,NA,NA,uninfected,,check
+763,2022,4/8/22,Oglethorpe,dam,yes,A,L,10,0,no,no,NA,NA,larssonia,,adult
+764,2022,4/8/22,Oglethorpe,dam,yes,A,C,52,14,no,no,NA,NA,chytrid,,adult
+765,2022,4/8/22,Oglethorpe,dam,yes,A,U,131,157,no,no,NA,NA,uninfected,,adult
+766,2022,4/8/22,Oglethorpe,dam,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+767,2022,4/8/22,Oglethorpe,dam,yes,J,C,5,NA,no,no,NA,NA,chytrid,,juvenile
+768,2022,4/8/22,Oglethorpe,dam,yes,J,U,115,NA,no,no,NA,NA,uninfected,,juvenile
+769,2022,4/8/22,Oglethorpe,dpa,yes,A,C,9,3,no,no,NA,NA,chytrid,,adult
+770,2022,4/8/22,Oglethorpe,dpa,yes,A,U,32,85,no,no,NA,NA,uninfected,,adult
+771,2022,4/8/22,Oglethorpe,dpa,yes,J,U,35,NA,no,no,NA,NA,uninfected,,juvenile
+772,2022,4/27/22,Oglethorpe,cer,no,NA,U,15,NA,no,no,NA,NA,uninfected,,check
+773,2022,4/27/22,Oglethorpe,dam,yes,A,G,12,0,no,no,NA,NA,gurleya,,adult
+774,2022,4/27/22,Oglethorpe,dam,yes,A,L,13,0,no,no,NA,NA,larssonia,,adult
+775,2022,4/27/22,Oglethorpe,dam,yes,A,U,96,97,no,no,NA,NA,uninfected,,adult
+776,2022,4/27/22,Oglethorpe,dam,yes,E,U,2,NA,no,no,NA,NA,uninfected,,ephippial
+777,2022,4/27/22,Oglethorpe,dam,yes,J,G,1,NA,no,no,NA,NA,gurleya,,juvenile
+778,2022,4/27/22,Oglethorpe,dam,yes,J,U,200,NA,no,no,NA,NA,uninfected,,juvenile
+779,2022,4/27/22,Oglethorpe,dpa,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+780,2022,4/27/22,Oglethorpe,dpa,yes,A,G,18,0,no,no,NA,NA,gurleya,,adult
+781,2022,4/27/22,Oglethorpe,dpa,yes,A,U,49,39,no,no,NA,NA,uninfected,,adult
+782,2022,4/27/22,Oglethorpe,dpa,yes,J,G,2,NA,no,no,NA,NA,gurleya,,juvenile
+783,2022,4/27/22,Oglethorpe,dpa,yes,J,U,69,NA,no,no,NA,NA,uninfected,,juvenile
+784,2022,5/25/22,Oglethorpe,cer,no,NA,U,48,NA,yes,no,NA,NA,uninfected,,check
+785,2022,5/25/22,Oglethorpe,dam,yes,A,U,2,3,yes,no,NA,NA,uninfected,,adult
+786,2022,5/25/22,Oglethorpe,dam,yes,J,U,13,NA,yes,no,NA,NA,uninfected,,juvenile
+787,2022,5/25/22,Oglethorpe,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+788,2022,5/25/22,Oglethorpe,dpa,yes,A,U,1,3,yes,no,NA,NA,uninfected,,adult
+789,2022,5/25/22,Oglethorpe,dpa,yes,J,U,5,NA,yes,no,NA,NA,uninfected,,juvenile
+790,2022,6/20/22,Oglethorpe,bos,no,NA,U,15,NA,no,no,NA,NA,uninfected,,check
+791,2022,6/20/22,Oglethorpe,cer,no,NA,U,264,NA,no,no,NA,NA,uninfected,,check
+792,2022,6/20/22,Oglethorpe,dam,yes,A,L,6,0,no,no,NA,NA,larssonia,,adult
+793,2022,6/20/22,Oglethorpe,dam,yes,A,U,40,36,no,no,NA,NA,uninfected,,adult
+794,2022,6/20/22,Oglethorpe,dam,yes,J,U,55,NA,no,no,NA,NA,uninfected,,juvenile
+795,2022,6/20/22,Oglethorpe,dia,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+796,2022,6/20/22,Oglethorpe,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+797,2022,6/20/22,Oglethorpe,dpa,yes,A,U,41,53,no,no,NA,NA,uninfected,,adult
+798,2022,6/20/22,Oglethorpe,dpa,yes,J,U,24,NA,no,no,NA,NA,uninfected,,juvenile
+799,2022,7/15/22,Oglethorpe,bos,no,NA,C,23,NA,yes,no,NA,NA,chytrid,,check
+800,2022,7/15/22,Oglethorpe,bos,no,NA,U,83,NA,yes,no,NA,NA,uninfected,,check
+801,2022,7/15/22,Oglethorpe,cer,no,NA,C,1,NA,yes,no,NA,NA,chytrid,,check
+802,2022,7/15/22,Oglethorpe,cer,no,NA,U,273,NA,yes,no,NA,NA,uninfected,,check
+803,2022,7/15/22,Oglethorpe,dam,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+804,2022,7/15/22,Oglethorpe,dia,no,NA,U,9,NA,yes,no,NA,NA,uninfected,,check
+962,2021,9/14/21,VIP,NA,NA,NA,NA,NA,NA,yes,no,NA,all cer,NA,,check
+806,2022,7/15/22,Oglethorpe,dpa,yes,A,U,6,1,yes,no,NA,NA,uninfected,,adult
+807,2022,7/15/22,Oglethorpe,dpa,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+808,2022,8/9/22,Oglethorpe,bos,no,NA,U,58,NA,yes,no,NA,NA,uninfected,,check
+809,2022,8/9/22,Oglethorpe,cer,no,NA,U,280,NA,yes,no,NA,NA,uninfected,,check
+810,2022,8/9/22,Oglethorpe,dam,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+811,2022,8/9/22,Oglethorpe,dia,no,NA,U,6,NA,yes,no,NA,NA,uninfected,,check
+1019,2022,7/13/22,VIP,NA,NA,NA,NA,NA,NA,yes,yes,NA,only a few alonellids,NA,,check
+813,2022,3/28/22,Parvo,dam,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+814,2022,5/11/22,Parvo,cer,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+815,2022,5/11/22,Parvo,dam,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+816,2022,5/11/22,Parvo,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+817,2022,5/11/22,Parvo,dia,no,NA,U,62,NA,yes,no,NA,NA,uninfected,,check
+818,2022,5/11/22,Parvo,dla,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+819,2022,5/31/22,Parvo,dia,no,NA,U,7,NA,yes,yes,NA,NA,uninfected,,check
+820,2022,5/31/22,Parvo,dpa,yes,A,U,1,2,yes,yes,NA,NA,uninfected,,adult
+821,2022,5/31/22,Parvo,dpa,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+822,2022,6/10/22,Picks,dam,yes,A,U,7,12,yes,no,NA,NA,uninfected,,adult
+823,2022,6/10/22,Picks,dam,yes,J,U,19,NA,yes,no,NA,NA,uninfected,,juvenile
+824,2021,4/2/21,Sister 1,bos,no,NA,U,8,NA,yes,no,NA,NA,uninfected,,check
+825,2021,4/2/21,Sister 1,dam,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+826,2021,4/2/21,Sister 1,dla,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+827,2021,5/5/21,Sister 1,dla,yes,A,L,3,NA,yes,no,NA,NA,larssonia,,adult
+828,2021,5/5/21,Sister 1,dla,yes,A,U,59,139,yes,no,NA,NA,uninfected,,adult
+829,2021,5/5/21,Sister 1,dla,yes,E,U,6,NA,yes,no,NA,NA,uninfected,,ephippial
+830,2021,5/5/21,Sister 1,dla,yes,J,U,152,NA,yes,no,NA,NA,uninfected,,juvenile
+831,2021,5/5/21,Sister 1,dla,yes,M,U,6,NA,yes,no,NA,NA,uninfected,,male
+1024,2022,9/7/22,Bear Creek,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+833,2021,5/12/21,Sister 1,dla,yes,J,U,197,NA,no,no,NA,NA,uninfected,,juvenile
+834,2021,5/12/21,Sister 1,dla,yes,A,U,175,780,no,no,NA,NA,uninfected,,adult
+835,2021,5/12/21,Sister 1,dla,yes,M,U,24,NA,no,no,NA,NA,uninfected,,male
+836,2021,5/12/21,Sister 1,dla,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+837,2021,5/12/21,Sister 1,dla,yes,A,L,5,0,no,no,NA,NA,larssonia,,adult
+838,2021,5/19/21,Sister 1,dla,yes,A,L,1,0,yes,no,NA,in neck; squished to confirm L,larssonia,,adult
+839,2021,5/19/21,Sister 1,dla,yes,A,U,75,272,yes,no,NA,NA,uninfected,,adult
+840,2021,5/19/21,Sister 1,dla,yes,J,U,80,NA,yes,no,NA,NA,uninfected,,juvenile
+841,2021,5/26/21,Sister 1,dla,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+842,2021,5/26/21,Sister 1,dla,yes,A,U,106,198,yes,no,NA,NA,uninfected,,adult
+843,2021,5/26/21,Sister 1,dla,yes,J,U,156,NA,yes,no,NA,NA,uninfected,,juvenile
+844,2021,6/2/21,Sister 1,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+845,2021,6/2/21,Sister 1,dla,yes,A,U,30,58,yes,no,NA,NA,uninfected,,adult
+846,2021,6/2/21,Sister 1,dla,yes,J,L,1,NA,yes,no,NA,NA,larssonia,,juvenile
+847,2021,6/2/21,Sister 1,dla,yes,J,U,188,NA,yes,no,NA,NA,uninfected,,juvenile
+848,2021,6/23/21,Sister 1,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+849,2021,6/23/21,Sister 1,dla,yes,A,U,71,152,yes,no,NA,NA,uninfected,,adult
+850,2021,6/23/21,Sister 1,dla,yes,J,U,130,NA,yes,no,NA,NA,uninfected,,juvenile
+851,2021,7/13/21,Sister 1,dla,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+852,2021,7/13/21,Sister 1,dla,yes,A,U,36,89,yes,no,NA,NA,uninfected,,adult
+853,2021,7/13/21,Sister 1,dla,yes,J,L,1,NA,yes,no,NA,NA,larssonia,,juvenile
+854,2021,7/13/21,Sister 1,dla,yes,J,U,62,NA,yes,no,NA,NA,uninfected,,juvenile
+855,2021,8/4/21,Sister 1,dla,yes,A,L,9,0,yes,no,NA,L in head,larssonia,,adult
+856,2021,8/4/21,Sister 1,dla,yes,A,U,61,128,yes,no,NA,NA,uninfected,,adult
+857,2021,8/4/21,Sister 1,dla,yes,J,U,222,NA,yes,no,NA,NA,uninfected,,juvenile
+858,2021,8/26/21,Sister 1,dla,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+859,2021,8/26/21,Sister 1,dla,yes,A,U,111,184,no,no,NA,NA,uninfected,,adult
+860,2021,8/26/21,Sister 1,dla,yes,J,L,1,NA,no,no,NA,NA,larssonia,,juvenile
+861,2021,8/26/21,Sister 1,dla,yes,J,U,209,NA,no,no,NA,NA,uninfected,,juvenile
+862,2021,10/12/21,Sister 1,dla,yes,A,U,6,20,yes,no,NA,NA,uninfected,,adult
+863,2021,10/12/21,Sister 1,dla,yes,J,U,24,NA,yes,no,NA,NA,uninfected,,juvenile
+864,2021,11/2/21,Sister 1,dla,yes,A,U,18,34,yes,no,NA,NA,uninfected,,adult
+865,2021,11/2/21,Sister 1,dla,yes,J,U,65,NA,yes,no,NA,NA,uninfected,,juvenile
+866,2021,11/22/21,Sister 1,dla,yes,A,U,14,38,yes,no,NA,NA,uninfected,,adult
+867,2021,11/22/21,Sister 1,dla,yes,J,U,118,NA,yes,no,NA,NA,uninfected,,juvenile
+868,2021,12/14/21,Sister 1,dla,yes,A,U,10,35,yes,no,NA,NA,uninfected,,adult
+869,2021,12/14/21,Sister 1,dla,yes,J,U,89,NA,yes,no,NA,NA,uninfected,,juvenile
+870,2022,1/5/22,Sister 1,dla,yes,A,U,31,83,yes,yes,NA,NA,uninfected,,adult
+871,2022,1/5/22,Sister 1,dla,yes,J,U,53,NA,yes,yes,NA,NA,uninfected,,juvenile
+872,2022,1/5/22,Sister 1,sim,yes,A,U,1,4,yes,yes,NA,NA,uninfected,,adult
+873,2022,1/5/22,Sister 1,sim,yes,J,U,2,NA,yes,yes,NA,NA,uninfected,,juvenile
+874,2022,1/27/22,Sister 1,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+875,2022,1/27/22,Sister 1,dla,yes,A,U,63,299,yes,no,NA,NA,uninfected,,adult
+876,2022,1/27/22,Sister 1,dla,yes,J,U,158,NA,yes,no,NA,NA,uninfected,,juvenile
+877,2022,1/27/22,Sister 1,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+878,2022,2/18/22,Sister 1,dam,yes,A,U,6,9,yes,no,NA,NA,uninfected,,adult
+879,2022,2/18/22,Sister 1,dam,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+880,2022,2/18/22,Sister 1,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+881,2022,2/18/22,Sister 1,dla,yes,A,U,27,142,yes,no,NA,NA,uninfected,,adult
+882,2022,2/18/22,Sister 1,dla,yes,J,U,135,NA,yes,no,NA,NA,uninfected,,juvenile
+883,2022,2/18/22,Sister 1,dpa,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+884,2022,3/7/22,Sister 1,dam,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+885,2022,3/7/22,Sister 1,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+886,2022,3/7/22,Sister 1,dla,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+887,2022,3/7/22,Sister 1,dla,yes,A,U,58,209,yes,no,NA,NA,uninfected,,adult
+888,2022,3/7/22,Sister 1,dla,yes,J,U,239,NA,yes,no,NA,NA,uninfected,,juvenile
+889,2022,3/28/22,Sister 1,dla,yes,A,U,51,134,yes,no,NA,NA,uninfected,,adult
+890,2022,3/28/22,Sister 1,dla,yes,J,U,328,NA,yes,no,NA,NA,uninfected,,juvenile
+891,2022,3/28/22,Sister 1,dla,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+892,2022,4/21/22,Sister 1,dla,yes,A,L,6,0,yes,no,NA,NA,larssonia,,adult
+893,2022,4/21/22,Sister 1,dla,yes,A,U,93,132,yes,no,NA,NA,uninfected,,adult
+894,2022,4/21/22,Sister 1,dla,yes,E,U,8,NA,yes,no,NA,NA,uninfected,,ephippial
+895,2022,4/21/22,Sister 1,dla,yes,J,U,181,NA,yes,no,NA,NA,uninfected,,juvenile
+896,2022,4/21/22,Sister 1,dla,yes,M,U,25,NA,yes,no,NA,NA,uninfected,,male
+897,2022,5/11/22,Sister 1,dla,yes,A,U,103,117,no,no,NA,NA,uninfected,,adult
+898,2022,5/11/22,Sister 1,dla,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+899,2022,5/11/22,Sister 1,dla,yes,J,U,195,NA,no,no,NA,NA,uninfected,,juvenile
+900,2022,5/11/22,Sister 1,dla,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+901,2022,6/3/22,Sister 1,bos,no,NA,U,5,NA,yes,no,NA,NA,uninfected,,check
+902,2022,6/3/22,Sister 1,cer,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+903,2022,6/3/22,Sister 1,dam,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+904,2022,6/3/22,Sister 1,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+905,2022,6/3/22,Sister 1,dla,yes,J,U,29,33,yes,no,NA,NA,uninfected,,juvenile
+906,2022,6/3/22,Sister 1,dla,yes,J,U,81,NA,yes,no,NA,NA,uninfected,,juvenile
+907,2022,6/3/22,Sister 1,dpa,yes,A,U,3,NA,yes,no,NA,NA,uninfected,,adult
+908,2022,6/22/22,Sister 1,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+909,2022,6/22/22,Sister 1,dla,yes,A,U,46,48,yes,no,NA,NA,uninfected,,adult
+910,2022,6/22/22,Sister 1,dla,yes,J,U,204,NA,yes,no,NA,NA,uninfected,,juvenile
+911,2022,7/13/22,Sister 1,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+912,2022,7/13/22,Sister 1,cer,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+913,2022,7/13/22,Sister 1,dla,yes,A,U,21,34,yes,no,NA,NA,uninfected,,adult
+914,2022,7/13/22,Sister 1,dla,yes,J,U,131,NA,yes,no,NA,NA,uninfected,,juvenile
+915,2022,8/5/22,Sister 1,dla,yes,A,U,7,22,yes,no,NA,NA,uninfected,,adult
+916,2022,8/5/22,Sister 1,dla,yes,J,U,15,NA,yes,no,NA,NA,uninfected,,juvenile
+917,2021,4/2/21,VIP,bos,no,NA,U,47,NA,no,no,NA,NA,uninfected,,check
+918,2021,4/2/21,VIP,dam,no,NA,B,1,NA,no,no,NA,NA,brood,,check
+919,2021,4/2/21,VIP,dam,no,NA,L,12,NA,no,no,NA,NA,larssonia,,check
+920,2021,4/2/21,VIP,dam,no,NA,U,186,NA,no,no,NA,NA,uninfected,,check
+921,2021,4/7/21,VIP,cer,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+922,2021,4/7/21,VIP,dam,yes,A,B,2,NA,no,no,NA,NA,brood,,adult
+923,2021,4/7/21,VIP,dam,yes,A,L,32,5,no,no,NA,NA,larssonia,,adult
+924,2021,4/7/21,VIP,dam,yes,A,U,138,68,no,no,NA,NA,uninfected,,adult
+925,2021,4/7/21,VIP,dam,yes,E,U,4,NA,no,no,NA,NA,uninfected,,ephippial
+926,2021,4/7/21,VIP,dam,yes,J,U,106,NA,no,no,NA,NA,uninfected,,juvenile
+927,2021,4/14/21,VIP,dam,yes,A,L,18,1,no,no,NA,lots of bos,larssonia,,adult
+928,2021,4/14/21,VIP,dam,yes,A,U,191,148,no,no,NA,lots of bos,uninfected,,adult
+929,2021,4/14/21,VIP,dam,yes,J,U,106,NA,no,no,NA,lots of bos,uninfected,,juvenile
+930,2021,4/14/21,VIP,dam,yes,M,U,4,NA,no,no,NA,lots of bos,uninfected,,male
+931,2021,4/21/21,VIP,dam,yes,A,L,41,3,no,no,NA,a few parvula,larssonia,,adult
+932,2021,4/21/21,VIP,dam,yes,A,U,143,126,no,no,NA,a few parvula,uninfected,,adult
+933,2021,4/21/21,VIP,dam,yes,J,U,108,NA,no,no,NA,a few parvula,uninfected,,juvenile
+934,2021,4/28/21,VIP,dam,yes,A,L,15,4,no,no,NA,NA,larssonia,,adult
+935,2021,4/28/21,VIP,dam,yes,A,U,147,113,no,no,NA,NA,uninfected,,adult
+936,2021,4/28/21,VIP,dam,yes,J,U,158,NA,no,no,NA,NA,uninfected,,juvenile
+937,2021,5/5/21,VIP,dam,yes,A,L,16,3,no,no,NA,NA,larssonia,,adult
+938,2021,5/5/21,VIP,dam,yes,A,U,188,249,no,no,NA,NA,uninfected,,adult
+939,2021,5/5/21,VIP,dam,yes,J,U,121,NA,no,no,NA,NA,uninfected,,juvenile
+940,2021,5/12/21,VIP,dam,yes,A,L,8,1,no,no,NA,NA,larssonia,,adult
+941,2021,5/12/21,VIP,dam,yes,A,U,199,250,no,no,NA,NA,uninfected,,adult
+942,2021,5/12/21,VIP,dam,yes,J,U,98,NA,no,no,NA,NA,uninfected,,juvenile
+943,2021,5/19/21,VIP,dam,yes,A,L,13,4,no,no,NA,NA,larssonia,,adult
+944,2021,5/19/21,VIP,dam,yes,A,U,168,168,no,no,NA,NA,uninfected,,adult
+945,2021,5/19/21,VIP,dam,yes,E,U,13,NA,no,no,NA,NA,uninfected,,ephippial
+946,2021,5/19/21,VIP,dam,yes,J,U,136,NA,no,no,NA,NA,uninfected,,juvenile
+947,2021,5/26/21,VIP,dam,yes,A,L,7,NA,no,no,NA,NA,larssonia,,adult
+948,2021,5/26/21,VIP,dam,yes,A,U,170,97,no,no,NA,NA,uninfected,,adult
+949,2021,5/26/21,VIP,dam,yes,E,U,4,NA,no,no,NA,NA,uninfected,,ephippial
+950,2021,5/26/21,VIP,dam,yes,J,U,158,NA,no,no,NA,NA,uninfected,,juvenile
+951,2021,5/26/21,VIP,dam,yes,M,U,6,NA,no,no,NA,NA,uninfected,,male
+952,2021,6/2/21,VIP,dam,yes,A,L,4,0,yes,no,NA,NA,larssonia,,adult
+953,2021,6/2/21,VIP,dam,yes,A,U,53,67,yes,no,NA,NA,uninfected,,adult
+954,2021,6/2/21,VIP,dam,yes,J,U,29,NA,yes,no,NA,NA,uninfected,,juvenile
+955,2021,6/2/21,VIP,dla,yes,A,U,2,6,yes,no,NA,NA,uninfected,,adult
+956,2021,6/2/21,VIP,dla,yes,J,L,1,NA,yes,no,NA,NA,larssonia,,juvenile
+957,2021,6/2/21,VIP,dla,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+958,2021,6/23/21,VIP,dam,yes,A,U,3,1,yes,yes,NA,some cer + bos,uninfected,,adult
+1058,2022,9/8/22,VIP,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,,check
+960,2021,8/4/21,VIP,dla,yes,A,U,2,0,yes,yes,NA,NA,uninfected,,adult
+1101,2022,10/6/22,NN3,NA,NA,NA,NA,NA,NA,yes,no,NA,NA,NA,,check
+142,2022,6/3/22,Big Sister,bos,no,NA,P,51,NA,no,no,NA,squished some but not all; all squished were Pasteuria (not metsch),pasteuria,,check
+963,2021,10/12/21,VIP,cer,no,NA,L,3,NA,no,yes,NA,NA,larssonia,,check
+964,2021,10/12/21,VIP,cer,no,NA,U,383,NA,no,yes,NA,NA,uninfected,,check
+965,2021,10/12/21,VIP,dam,yes,A,U,2,6,no,yes,NA,NA,uninfected,,adult
+966,2021,10/12/21,VIP,dla,yes,J,U,1,NA,no,yes,NA,NA,uninfected,,juvenile
+967,2021,11/2/21,VIP,dia,no,NA,L,3,NA,no,no,NA,NA,larssonia,,check
+968,2021,11/2/21,VIP,dia,no,NA,U,300,NA,no,no,NA,NA,uninfected,,check
+969,2021,11/22/21,VIP,dia,no,NA,U,238,NA,yes,no,NA,NA,uninfected,,check
+970,2021,11/22/21,VIP,dpa,yes,A,U,1,2,yes,no,NA,some cer too,uninfected,,adult
+971,2021,12/14/21,VIP,cer,no,NA,U,44,NA,yes,no,NA,NA,uninfected,,check
+972,2021,12/14/21,VIP,dam,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+973,2021,12/14/21,VIP,dia,no,NA,L,2,NA,yes,no,NA,NA,larssonia,,check
+974,2021,12/14/21,VIP,dia,no,NA,U,218,NA,yes,no,NA,NA,uninfected,,check
+975,2022,1/5/22,VIP,cer,no,NA,U,310,NA,no,no,NA,NA,uninfected,,check
+976,2022,1/5/22,VIP,dam,yes,A,U,26,40,no,no,NA,NA,uninfected,,adult
+977,2022,1/5/22,VIP,dam,yes,J,U,24,NA,no,no,NA,NA,uninfected,,juvenile
+978,2022,1/5/22,VIP,dia,no,NA,U,94,NA,no,no,NA,NA,uninfected,,check
+979,2022,1/5/22,VIP,dpa,yes,A,U,3,4,no,no,NA,NA,uninfected,,adult
+980,2022,1/5/22,VIP,dpa,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+981,2022,1/27/22,VIP,cer,no,NA,U,312,NA,yes,no,NA,NA,uninfected,,check
+982,2022,1/27/22,VIP,dam,yes,A,U,10,13,yes,no,NA,NA,uninfected,,adult
+983,2022,1/27/22,VIP,dam,yes,J,U,29,NA,yes,no,NA,NA,uninfected,,juvenile
+984,2022,1/27/22,VIP,dia,no,NA,U,11,NA,yes,no,NA,NA,uninfected,,check
+985,2022,2/18/22,VIP,cer,no,NA,U,96,NA,yes,no,NA,NA,uninfected,,check
+986,2022,2/18/22,VIP,dam,yes,A,L,2,4,yes,no,NA,NA,larssonia,,adult
+987,2022,2/18/22,VIP,dam,yes,A,U,81,270,yes,no,NA,NA,uninfected,,adult
+988,2022,2/18/22,VIP,dam,yes,J,U,50,NA,yes,no,NA,NA,uninfected,,juvenile
+989,2022,2/18/22,VIP,dia,no,NA,U,18,NA,yes,no,NA,NA,uninfected,,check
+990,2022,2/18/22,VIP,dpa,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+991,2022,2/18/22,VIP,dpa,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+992,2022,3/7/22,VIP,cer,no,NA,U,208,NA,no,no,NA,NA,uninfected,,check
+993,2022,3/7/22,VIP,dam,yes,A,L,1,2,no,no,NA,NA,larssonia,,adult
+994,2022,3/7/22,VIP,dam,yes,A,U,149,349,no,no,NA,NA,uninfected,,adult
+995,2022,3/7/22,VIP,dam,yes,J,U,231,NA,no,no,NA,NA,uninfected,,juvenile
+996,2022,3/7/22,VIP,dam,yes,M,U,7,NA,no,no,NA,NA,uninfected,,male
+997,2022,3/7/22,VIP,dia,no,NA,U,13,NA,no,no,NA,NA,uninfected,,check
+998,2022,3/28/22,VIP,cer,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+999,2022,3/28/22,VIP,cer,no,NA,U,583,NA,no,no,NA,NA,uninfected,,check
+1000,2022,3/28/22,VIP,dam,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+1001,2022,3/28/22,VIP,dam,yes,A,U,26,34,no,no,NA,NA,uninfected,,adult
+1002,2022,3/28/22,VIP,dam,yes,J,U,75,NA,no,no,NA,NA,uninfected,,juvenile
+1003,2022,3/28/22,VIP,dia,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+1004,2022,3/28/22,VIP,dia,no,NA,U,65,NA,no,no,NA,NA,uninfected,,check
+1005,2022,4/21/22,VIP,cer,no,NA,U,445,NA,no,no,NA,NA,uninfected,,check
+1006,2022,4/21/22,VIP,dam,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+1007,2022,4/21/22,VIP,dam,yes,A,U,6,5,no,no,NA,NA,uninfected,,adult
+1008,2022,4/21/22,VIP,dam,yes,J,U,4,NA,no,no,NA,NA,uninfected,,juvenile
+1009,2022,4/21/22,VIP,dia,no,NA,L,9,NA,no,no,NA,NA,larssonia,,check
+1010,2022,4/21/22,VIP,dia,no,NA,U,91,NA,no,no,NA,NA,uninfected,,check
+1011,2022,4/21/22,VIP,dpa,yes,A,U,2,2,no,no,NA,NA,uninfected,,adult
+1012,2022,4/21/22,VIP,dpa,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+1013,2022,5/11/22,VIP,cer,no,NA,U,415,NA,no,yes,NA,NA,uninfected,,check
+1014,2022,5/11/22,VIP,dam,yes,J,U,3,NA,no,yes,NA,NA,uninfected,,juvenile
+1015,2022,5/11/22,VIP,dla,yes,J,U,1,NA,no,yes,NA,NA,uninfected,,juvenile
+1016,2022,5/11/22,VIP,dpa,yes,J,U,2,NA,no,yes,NA,NA,uninfected,,juvenile
+1017,2022,6/3/22,VIP,bos,no,NA,U,3,NA,yes,yes,NA,NA,uninfected,,check
+1018,2022,6/22/22,VIP,dia,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+284,2022,5/25/22,Chapman,cer,no,NA,P,1,NA,no,no,NA,NA,pasteuria,,check
+1020,2022,8/5/22,VIP,bos,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+1021,2022,8/5/22,VIP,dam,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+1022,2022,8/5/22,VIP,dia,no,NA,U,1,NA,yes,yes,NA,NA,uninfected,,check
+1023,2022,9/7/22,Herrick,cer,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+477,2022,6/3/22,Deans,bos,no,NA,P,8,NA,no,no,NA,NA,pasteuria,,check
+1025,2022,9/7/22,Memorial,dpa,yes,J,U,127,NA,no,no,NA,NA,uninfected,,juvenile
+1026,2022,9/7/22,Memorial,dpa,yes,A,U,98,43,no,no,NA,NA,uninfected,,adult
+1027,2022,9/7/22,Memorial,dia,no,NA,U,73,NA,no,no,NA,NA,uninfected,,check
+1028,2022,9/7/22,Memorial,bos,no,NA,U,175,NA,no,no,NA,NA,uninfected,,check
+1029,2022,9/7/22,Memorial,bos,NA,NA,L,1,NA,no,no,NA,squish to confirm,larssonia,,check
+1030,2022,9/7/22,Memorial,cer,NA,NA,U,86,NA,no,no,NA,NA,uninfected,,check
+1031,2022,9/7/22,Memorial,cer,NA,NA,L,17,NA,no,no,NA,NA,larssonia,,check
+1032,2022,9/7/22,Chapman,dpa,yes,J,U,52,NA,no,no,NA,NA,uninfected,,juvenile
+1033,2022,9/7/22,Chapman,dpa,yes,A,U,55,89,no,no,NA,NA,uninfected,,adult
+1034,2022,9/7/22,Chapman,dam,yes,J,U,10,NA,no,no,NA,NA,uninfected,,juvenile
+1035,2022,9/7/22,Chapman,dam,yes,A,U,6,6,no,no,NA,NA,uninfected,,adult
+1036,2022,9/7/22,Chapman,dia,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+1037,2022,9/7/22,Chapman,bos,no,NA,U,4,NA,no,no,NA,NA,uninfected,,check
+1038,2022,9/7/22,Chapman,cer,no,NA,U,76,NA,yes,no,NA,NA,uninfected,,check
+1039,2022,9/7/22,Oglethorpe,dpa,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+1040,2022,9/7/22,Oglethorpe,dpa,yes,A,U,4,2,yes,no,NA,NA,uninfected,,adult
+1041,2022,9/7/22,Oglethorpe,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+1042,2022,9/7/22,Oglethorpe,dam,yes,A,U,1,2,yes,no,NA,NA,uninfected,,adult
+1043,2022,9/7/22,Oglethorpe,dia,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+1044,2022,9/7/22,Oglethorpe,cer,no,NA,U,673,NA,yes,no,NA,NA,uninfected,,check
+1045,2022,9/7/22,Oglethorpe,cer,no,NA,L,7,NA,yes,no,NA,NA,larssonia,,check
+1046,2022,9/8/22,Sister 1,dla,yes,J,U,110,NA,yes,no,NA,NA,uninfected,,juvenile
+1047,2022,9/8/22,Sister 1,dla,yes,A,U,35,61,yes,no,NA,NA,uninfected,,adult
+1048,2022,9/8/22,Sister 1,dla,yes,A,L,2,0,yes,no,NA,NA,larssonia,,adult
+1049,2022,9/8/22,Sister 1,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1050,2022,9/8/22,Sister 1,bos,no,NA,U,233,NA,yes,no,NA,NA,uninfected,,check
+1051,2022,9/8/22,Sister 1,cer,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1052,2022,9/8/22,Catfish,dla,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+1053,2022,9/8/22,Catfish,dla,yes,A,U,1,6,yes,no,NA,NA,uninfected,,adult
+1054,2022,9/8/22,Catfish,dia,no,NA,U,34,NA,yes,no,NA,NA,uninfected,,check
+1055,2022,9/8/22,NN3,dla,yes,A,U,1,1,yes,yes,NA,NA,uninfected,,adult
+1056,2022,9/8/22,NN3,sim,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+1057,2022,9/8/22,NN3,sim,yes,A,U,1,8,yes,yes,NA,NA,uninfected,,adult
+479,2022,6/3/22,Deans,cer,no,NA,P,1,NA,no,no,NA,NA,pasteuria,,check
+1059,2022,9/8/22,Big Sister,dla,yes,J,U,5,NA,yes,no,NA,NA,uninfected,,juvenile
+1060,2022,9/8/22,Big Sister,dla,yes,A,U,1,4,yes,no,NA,NA,uninfected,,adult
+1061,2022,9/8/22,Big Sister,dam,yes,J,U,0,NA,yes,no,NA,NA,uninfected,,juvenile
+1062,2022,9/8/22,Big Sister,dam,yes,A,U,2,0,yes,no,NA,NA,uninfected,,adult
+1063,2022,9/8/22,Big Sister,dia,no,NA,U,5,NA,yes,no,NA,NA,uninfected,,check
+1064,2022,9/8/22,Deer,dam,yes,J,U,3,NA,no,no,NA,NA,uninfected,,juvenile
+1065,2022,9/8/22,Deer,dam,yes,A,U,4,11,no,no,NA,NA,uninfected,,adult
+1066,2022,9/8/22,Deer,dia,no,NA,U,341,NA,no,no,NA,NA,uninfected,,check
+1067,2022,9/8/22,Dean's,bos,no,NA,U,555,NA,no,no,NA,NA,uninfected,,check
+1068,2022,9/8/22,Dean's,dia,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+1069,2022,9/8/22,Dean's,cer,no,NA,U,3,NA,no,no,NA,NA,uninfected,,check
+1070,2022,10/5/22,Chapman,dpa,yes,J,U,80,NA,no,no,NA,NA,uninfected,,juvenile
+1071,2022,10/5/22,Chapman,dpa,yes,A,U,129,139,no,no,NA,NA,uninfected,,adult
+805,2022,7/15/22,Oglethorpe,dpa,yes,A,P,1,0,yes,no,NA,NA,pasteuria,,adult
+1073,2022,10/5/22,Chapman,dam,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+1074,2022,10/5/22,Chapman,dam,yes,A,U,2,0,no,no,NA,NA,uninfected,,adult
+1075,2022,10/5/22,Chapman,cer,no,NA,U,519,NA,no,no,NA,NA,uninfected,,check
+1076,2022,10/5/22,Chapman,cer,no,NA,L,5,NA,no,no,NA,NA,larssonia,,check
+1077,2022,10/5/22,Chapman,bos,no,NA,U,11,NA,no,no,NA,NA,uninfected,,check
+1078,2022,10/5/22,Chapman,dia,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1079,2022,10/5/22,Memorial,dpa,yes,J,U,23,NA,no,no,NA,NA,uninfected,,juvenile
+1080,2022,10/5/22,Memorial,dpa,yes,A,U,10,8,no,no,NA,NA,uninfected,,adult
+1081,2022,10/5/22,Memorial,cer,no,NA,U,484,NA,no,no,NA,NA,uninfected,,check
+1082,2022,10/5/22,Memorial,cer,no,NA,L,25,NA,no,no,NA,NA,larssonia,,check
+1083,2022,10/5/22,Memorial,dia,no,NA,U,40,NA,no,no,NA,NA,uninfected,,check
+1084,2022,10/5/22,Memorial,bos,no,NA,U,16,NA,no,no,NA,NA,uninfected,,check
+1085,2022,10/5/22,Herrick,cer,no,NA,U,2,NA,yes,yes,NA,NA,uninfected,,check
+1086,2022,10/5/22,Bear Creek,cer,no,NA,U,4,NA,yes,yes,NA,NA,uninfected,,check
+1087,2022,10/5/22,Bear Creek,bos,no,NA,U,3,NA,yes,yes,NA,NA,uninfected,,check
+1088,2022,10/5/22,Oglethorpe,dpa,yes,J,U,26,NA,yes,no,NA,NA,uninfected,,juvenile
+1089,2022,10/5/22,Oglethorpe,dpa,yes,A,U,14,19,yes,no,NA,NA,uninfected,,adult
+1090,2022,10/5/22,Oglethorpe,dam,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+1091,2022,10/5/22,Oglethorpe,dam,NA,A,U,3,4,yes,no,NA,NA,uninfected,,adult
+1092,2022,10/5/22,Oglethorpe,dia,no,NA,U,11,NA,yes,no,NA,NA,uninfected,,check
+1093,2022,10/5/22,Oglethorpe,bos,no,NA,U,8,NA,yes,no,NA,NA,uninfected,,check
+1094,2022,10/5/22,Oglethorpe,cer,no,NA,U,149,NA,yes,no,NA,NA,uninfected,,check
+1095,2022,10/5/22,Oglethorpe,cer,no,NA,L,2,NA,yes,no,NA,NA,larssonia,,check
+1096,2022,10/6/22,Big Sister,dam,yes,J,U,10,NA,yes,no,NA,NA,uninfected,,juvenile
+1097,2022,10/6/22,Big Sister,dam,yes,A,U,21,4,yes,no,NA,NA,uninfected,,adult
+1098,2022,10/6/22,Big Sister,dla,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+1099,2022,10/6/22,Big Sister,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1100,2022,10/6/22,Big Sister,cer,no,NA,U,8,NA,yes,no,NA,NA,uninfected,,check
+1072,2022,10/5/22,Chapman,dpa,yes,A,P,2,0,no,no,NA,NA,pasteuria,,adult
+1102,2022,10/6/22,VIP,dam,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+1103,2022,10/6/22,VIP,dam,yes,A,U,3,5,yes,no,NA,NA,uninfected,,adult
+1104,2022,10/6/22,VIP,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1105,2022,10/6/22,VIP,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1106,2022,10/6/22,VIP,cer,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1107,2022,10/6/22,Catfish,dla,yes,J,U,1,NA,yes,no,NA,closterium & volvax,uninfected,,juvenile
+1108,2022,10/6/22,Catfish,dla,yes,A,U,1,NA,yes,no,NA,NA,uninfected,,adult
+1109,2022,10/6/22,Catfish,dia,no,NA,U,23,NA,yes,no,NA,NA,uninfected,,check
+1110,2022,10/6/22,Sister 1,dla,yes,J,U,44,NA,yes,no,NA,NA,uninfected,,juvenile
+1111,2022,10/6/22,Sister 1,dla,yes,A,U,7,10,yes,no,NA,NA,uninfected,,adult
+1112,2022,10/6/22,Sister 1,cer,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1113,2022,10/6/22,Deer,dam,yes,J,U,43,NA,yes,no,NA,NA,uninfected,,juvenile
+1114,2022,10/6/22,Deer,dam,yes,A,U,15,29,yes,no,NA,NA,uninfected,,adult
+1115,2022,10/6/22,Deer,dia,no,NA,U,76,NA,yes,no,NA,NA,uninfected,,check
+1116,2022,10/6/22,Dean's,dpa,yes,J,U,11,NA,yes,no,NA,NA,uninfected,,juvenile
+1117,2022,10/6/22,Dean's,dpa,yes,A,U,12,18,yes,no,NA,NA,uninfected,,adult
+1118,2022,10/6/22,Dean's,dam,yes,J,U,51,NA,yes,no,NA,NA,uninfected,,juvenile
+1119,2022,10/6/22,Dean's,dam,yes,A,U,24,34,yes,no,NA,NA,uninfected,,adult
+1120,2022,10/6/22,Dean's,dia,no,NA,U,56,NA,yes,no,NA,lots of dead diaphanosoma,uninfected,,check
+1121,2022,10/6/22,Dean's,bos,no,NA,U,4,NA,yes,no,NA,NA,uninfected,,check
+1122,2022,10/6/22,Dean's,cer,no,NA,U,72,NA,yes,no,NA,NA,uninfected,,check
+1123,2022,11/10/22,Big Sister,dam,yes,J,U,222,NA,no,no,NA,NA,uninfected,,juvenile
+1124,2022,11/10/22,Big Sister,dam,yes,A,U,104,133,no,no,NA,"""count"" may be 164, double check handwriting",uninfected,,adult
+1125,2022,11/10/22,Big Sister,dam,yes,E,U,6,NA,no,no,NA,NA,uninfected,,ephippial
+1126,2022,11/10/22,Big Sister,dam,yes,A,B,1,NA,no,no,NA,NA,brood,,adult
+1127,2022,11/10/22,Big Sister,sim,yes,A,U,1,NA,no,no,NA,NA,uninfected,,adult
+1128,2022,11/10/22,Big Sister,cer,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+1129,2022,11/10/22,VIP,dam,yes,J,U,243,NA,yes,no,NA,NA,uninfected,,juvenile
+1130,2022,11/10/22,VIP,dam,yes,A,U,45,65,yes,no,NA,NA,uninfected,,adult
+1131,2022,11/10/22,VIP,dia,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1132,2022,11/10/22,VIP,sim,yes,A,U,1,NA,yes,no,NA,NA,uninfected,,adult
+1133,2022,11/10/22,VIP,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+1134,2022,11/10/22,Deer,dam,yes,J,U,293,NA,no,no,NA,NA,uninfected,,juvenile
+1135,2022,11/10/22,Deer,dam,yes,A,U,91,253,no,no,NA,NA,uninfected,,adult
+1136,2022,11/10/22,Deer,dla,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+1137,2022,11/10/22,Deer,dla,yes,A,U,4,13,no,no,NA,NA,uninfected,,adult
+1138,2022,11/10/22,Deer,dia,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1139,2022,11/10/22,NN3,sim,yes,J,U,7,NA,yes,no,NA,NA,uninfected,,juvenile
+1140,2022,11/10/22,NN3,sim,yes,A,U,4,3,yes,no,NA,NA,uninfected,,adult
+1141,2022,11/10/22,NN3,sim,yes,A,L,1,0,yes,no,NA,"""I think, saved for spore yield sequencing"" -AS",larssonia,,adult
+1142,2022,11/10/22,Catfish,dla,yes,J,U,5,NA,yes,yes,NA,NA,uninfected,,juvenile
+1143,2022,11/10/22,Catfish,dla,yes,A,U,1,10,yes,yes,NA,NA,uninfected,,adult
+1144,2022,11/10/22,Sister 1,dla,yes,J,U,5,NA,yes,yes,NA,NA,uninfected,,juvenile
+1145,2022,11/10/22,Sister 1,dla,yes,A,U,1,0,yes,yes,NA,NA,uninfected,,adult
+1146,2022,11/10/22,Sister 1,cer,no,NA,U,3,NA,yes,yes,NA,NA,uninfected,,check
+1147,2022,11/10/22,Dean's,dpa,yes,J,U,3,NA,no,no,NA,NA,uninfected,,juvenile
+1148,2022,11/10/22,Dean's,dpa,yes,A,U,3,3,no,no,NA,NA,uninfected,,adult
+1149,2022,11/10/22,Dean's,dam,yes,J,U,8,NA,no,no,NA,NA,uninfected,,juvenile
+1150,2022,11/10/22,Dean's,dam,yes,A,U,1,1,no,no,NA,NA,uninfected,,adult
+1151,2022,11/10/22,Dean's,dia,no,NA,U,279,NA,no,no,NA,NA,uninfected,,check
+1152,2022,11/10/22,Dean's,cer,no,NA,U,200,NA,no,no,NA,NA,uninfected,,check
+1153,2022,11/10/22,Dean's,cer,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+1154,2022,11/10/22,Dean's,bos,no,NA,U,22,NA,no,no,NA,NA,uninfected,,check
+1155,2022,11/17/22,Oglethorpe,dam,yes,J,U,18,NA,yes,no,NA,NA,uninfected,,juvenile
+1156,2022,11/17/22,Oglethorpe,dam,yes,A,U,28,40,yes,no,NA,NA,uninfected,,adult
+1157,2022,11/17/22,Oglethorpe,dam,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1158,2022,11/17/22,Oglethorpe,dpa,yes,J,U,17,NA,yes,no,NA,NA,uninfected,,juvenile
+1159,2022,11/17/22,Oglethorpe,dpa,yes,A,U,29,46,yes,no,NA,NA,uninfected,,adult
+1160,2022,11/17/22,Oglethorpe,dpa,yes,M,U,3,NA,yes,no,NA,NA,uninfected,,male
+1161,2022,11/17/22,Oglethorpe,dia,no,NA,U,15,NA,yes,no,NA,NA,uninfected,,check
+1162,2022,11/17/22,Bear Creek,bos,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+1163,2022,11/17/22,Chapman,dam,yes,J,U,12,NA,no,no,NA,NA,uninfected,,juvenile
+1164,2022,11/17/22,Chapman,dam,yes,A,U,7,12,no,no,NA,NA,uninfected,,adult
+1165,2022,11/17/22,Chapman,dpa,yes,J,U,46,NA,no,no,NA,NA,uninfected,,juvenile
+1166,2022,11/17/22,Chapman,dpa,yes,A,U,40,74,no,no,NA,NA,uninfected,,adult
+1167,2022,11/17/22,Chapman,dia,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1168,2022,11/17/22,Chapman,bos,no,NA,U,436,NA,no,no,NA,NA,uninfected,,check
+1169,2022,11/17/22,Chapman,cer,no,NA,U,132,NA,no,no,NA,NA,uninfected,,check
+1170,2022,11/17/22,Chapman,cer,no,NA,B,1,NA,no,no,NA,NA,brood,,check
+1171,2022,11/17/22,Memorial,dpa,yes,J,U,65,NA,no,no,NA,NA,uninfected,,juvenile
+1172,2022,11/17/22,Memorial,dpa,yes,A,U,111,206,no,no,NA,NA,uninfected,,adult
+1173,2022,11/17/22,Memorial,dpa,yes,M,U,16,NA,no,no,NA,NA,uninfected,,male
+1174,2022,11/17/22,Memorial,dia,no,NA,U,6,NA,no,no,NA,NA,uninfected,,check
+1175,2022,11/17/22,Memorial,bos,no,NA,U,49,NA,no,no,NA,NA,uninfected,,check
+1176,2022,11/17/22,Memorial,cer,no,NA,U,321,NA,no,no,NA,NA,uninfected,,check
+1177,2022,11/17/22,Memorial,cer,no,NA,L,39,NA,no,no,NA,NA,larssonia,,check
+1178,2023,1/13/23,VIP,dam,yes,J,U,208,NA,no,no,NA,NA,uninfected,,juvenile
+1179,2023,1/13/23,VIP,dam,yes,A,U,134,470,no,no,NA,NA,uninfected,,adult
+1180,2023,1/13/23,VIP,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+1181,2023,1/13/23,VIP,dam,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+1182,2023,1/13/23,VIP,cer,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+1183,2023,1/13/23,VIP,dia,no,NA,U,9,NA,no,no,NA,NA,uninfected,,check
+1184,2023,1/13/23,Deer,dam,yes,J,U,219,NA,no,no,NA,NA,uninfected,,juvenile
+1185,2023,1/13/23,Deer,dam,yes,A,U,109,395,no,no,NA,NA,uninfected,,adult
+1186,2023,1/13/23,Deer,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+1187,2023,1/13/23,Catfish,dla,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+1188,2023,1/13/23,Catfish,dla,yes,A,U,1,NA,yes,no,NA,NA,uninfected,,adult
+1189,2023,1/13/23,Catfish,sim,yes,J,U,1,NA,yes,no,NA,NA,uninfected,,juvenile
+1190,2023,1/13/23,Dean's,dam,yes,J,U,8,NA,yes,no,NA,NA,uninfected,,juvenile
+1191,2023,1/13/23,Dean's,dam,yes,A,U,5,12,yes,no,NA,NA,uninfected,,adult
+1192,2023,1/13/23,Dean's,dia,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1193,2023,1/13/23,Dean's,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1194,2023,1/13/23,Dean's,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1195,2023,1/20/23,Sister 1,dla,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+1196,2023,1/20/23,Sister 1,sim,yes,J,U,1,NA,yes,yes,NA,NA,uninfected,,juvenile
+1197,2023,1/20/23,NN3,sim,yes,J,U,4,NA,yes,yes,NA,NA,uninfected,,juvenile
+1198,2023,1/20/23,NN3,sim,yes,A,U,3,4,yes,yes,NA,NA,uninfected,,adult
+1199,2023,1/20/23,Big Sister,dam,yes,J,U,13,NA,yes,yes,NA,NA,uninfected,,juvenile
+1200,2023,1/20/23,Big Sister,dam,yes,A,U,9,29,yes,yes,NA,NA,uninfected,,adult
+1201,2023,1/20/23,Big Sister,bos,no,NA,U,339,NA,yes,yes,NA,NA,uninfected,,check
+1202,2023,1/27/23,Chapman,dam,yes,J,U,63,NA,yes,no,NA,NA,uninfected,,juvenile
+1203,2023,1/27/23,Chapman,dam,yes,A,U,17,92,yes,no,NA,also in sample: lots of spotty asplanchna votiters; squished to inspect; spiky balls came out. Look like single cell,uninfected,,adult
+1204,2023,1/27/23,Chapman,dpa,yes,J,U,24,NA,yes,no,NA,NA,uninfected,,juvenile
+1205,2023,1/27/23,Chapman,dpa,yes,A,U,15,74,yes,no,NA,NA,uninfected,,adult
+1206,2023,1/27/23,Chapman,dpa,yes,A,B,3,6,yes,no,NA,"brood parasite, big balls with distinct inside and outside",brood,,adult
+1207,2023,1/27/23,Chapman,bos,no,NA,U,123,NA,yes,no,NA,NA,uninfected,,check
+1208,2023,1/27/23,Chapman,dia,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1209,2023,1/27/23,Chapman,cer,no,NA,U,18,NA,yes,no,NA,NA,uninfected,,check
+1210,2023,1/27/23,Bear Creek,bos,no,NA,U,6,NA,yes,yes,NA,NA,uninfected,,check
+1211,2023,1/27/23,Oglethorpe,dam,yes,J,U,48,NA,yes,no,NA,NA,uninfected,,juvenile
+1212,2023,1/27/23,Oglethorpe,dam,yes,A,U,20,26,yes,no,NA,NA,uninfected,,adult
+1213,2023,1/27/23,Oglethorpe,dam,yes,A,C,27,9,yes,no,NA,"s=spheres (on inside, look like pimples under magnif. Sometimes cells look like they are dividing). Update: calling them C now for chytrid",chytrid,,adult
+1214,2023,1/27/23,Oglethorpe,dpa,yes,J,U,6,NA,yes,no,NA,NA,uninfected,,juvenile
+1215,2023,1/27/23,Oglethorpe,dpa,yes,A,U,4,4,yes,no,NA,NA,uninfected,,adult
+1216,2023,1/27/23,Oglethorpe,dpa,yes,A,C,1,0,yes,no,NA,NA,chytrid,,adult
+1217,2023,1/27/23,Oglethorpe,bos,no,NA,U,295,NA,yes,no,NA,NA,uninfected,,check
+1218,2023,2/3/23,Memorial,dpa,yes,J,U,50,NA,yes,no,NA,NA,uninfected,,juvenile
+1219,2023,2/3/23,Memorial,dpa,yes,A,U,7,8,yes,no,NA,NA,uninfected,,adult
+1220,2023,2/3/23,Memorial,bos,no,NA,U,26,NA,yes,no,NA,lots allonellids,uninfected,,check
+1221,2023,2/17/23,NN3,sim,yes,J,U,78,NA,Yes,no,NA,lots of amphipods & chidorus,uninfected,,juvenile
+1222,2023,2/17/23,NN3,sim,yes,A,U,20,122,yes,no,NA,NA,uninfected,,adult
+1223,2023,2/17/23,NN3,sim,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+1224,2023,2/17/23,NN3,bos,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1225,2023,2/17/23,Big Sister,dam,yes,J,U,87,NA,no,no,NA,NA,uninfected,,juvenile
+1226,2023,2/17/23,Big Sister,dam,yes,A,U,56,151,no,no,NA,NA,uninfected,,adult
+1227,2023,2/17/23,Big Sister,bos,no,NA,U,676,NA,no,no,NA,NA,uninfected,,check
+1228,2023,2/17/23,Big Sister,dla,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+1229,2023,2/17/23,Deer,dam,yes,J,U,232,NA,yes,no,NA,NA,uninfected,,juvenile
+1230,2023,2/17/23,Deer,dam,yes,A,U,78,306,yes,no,NA,NA,uninfected,,adult
+1231,2023,2/17/23,Deer,dam,yes,A,L,3,2,yes,no,NA,infections in throat,larssonia,,adult
+1232,2023,2/17/23,Deer,dam,yes,A,B,1,1,yes,no,NA,NA,brood,,adult
+1233,2023,2/17/23,Deer,dla,yes,J,U,4,NA,yes,no,NA,NA,uninfected,,juvenile
+1234,2023,2/17/23,Dean's,dam,yes,J,U,10,NA,yes,no,NA,NA,uninfected,,juvenile
+1235,2023,2/17/23,Dean's,dam,yes,A,U,9,32,yes,no,NA,NA,uninfected,,adult
+1236,2023,2/17/23,Dean's,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1237,2023,2/17/23,Catfish,dla,yes,J,U,9,NA,yes,no,NA,lots volvox,uninfected,,juvenile
+1238,2023,2/17/23,Catfish,dam,yes,J,U,17,NA,yes,no,NA,NA,uninfected,,juvenile
+1239,2023,2/17/23,Catfish,dam,yes,A,U,16,7,yes,no,NA,NA,uninfected,,adult
+1240,2023,2/17/23,Sister 1,dla,yes,J,U,18,NA,yes,no,NA,NA,uninfected,,juvenile
+1241,2023,2/17/23,Sister 1,dla,yes,A,U,4,18,yes,no,NA,NA,uninfected,,adult
+1242,2023,2/17/23,VIP,dam,yes,J,U,306,NA,no,no,NA,NA,uninfected,,juvenile
+1243,2023,2/17/23,VIP,dam,yes,A,U,94,37,no,no,NA,NA,uninfected,,adult
+1244,2023,2/17/23,VIP,dam,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+1245,2023,2/24/23,Oglethorpe,dam,yes,J,U,55,NA,no,no,NA,NA,uninfected,,juvenile
+1246,2023,2/24/23,Oglethorpe,dam,yes,A,U,52,134,no,no,NA,NA,uninfected,,adult
+1247,2023,2/24/23,Oglethorpe,dam,yes,A,C,11,19,no,no,NA,NA,chytrid,,adult
+1248,2023,2/24/23,Oglethorpe,dpa,yes,J,U,29,NA,no,no,NA,NA,uninfected,,juvenile
+1249,2023,2/24/23,Oglethorpe,dpa,yes,A,U,16,68,no,no,NA,NA,uninfected,,adult
+1250,2023,2/24/23,Oglethorpe,dpa,yes,A,C,1,3,no,no,NA,NA,chytrid,,adult
+1251,2023,2/24/23,Oglethorpe,bos,no,NA,U,416,NA,no,no,NA,NA,uninfected,,check
+1252,2023,2/24/23,Oglethorpe,cer,no,NA,U,2,NA,no,no,NA,NA,uninfected,,check
+1253,2023,2/24/23,Memorial,dpa,yes,J,U,317,NA,no,no,NA,NA,uninfected,,juvenile
+1254,2023,2/24/23,Memorial,dpa,yes,A,U,41,110,no,no,NA,NA,uninfected,,adult
+1255,2023,2/24/23,Bear Creek,dpa,yes,J,U,10,NA,yes,no,NA,NA,uninfected,,juvenile
+1256,2023,2/24/23,Bear Creek,dpa,yes,A,U,2,2,yes,no,NA,NA,uninfected,,adult
+1257,2023,2/24/23,Bear Creek,hgi,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1258,2023,2/24/23,Bear Creek,bos,no,NA,U,39,NA,yes,no,NA,NA,uninfected,,check
+1259,2023,2/24/23,Chapman,dam,yes,J,U,110,NA,no,no,NA,NA,uninfected,,juvenile
+1260,2023,2/24/23,Chapman,dam,yes,A,U,62,287,no,no,NA,NA,uninfected,,adult
+1261,2023,2/24/23,Chapman,dam,yes,A,B,3,6,no,no,NA,NA,brood,,adult
+1262,2023,2/24/23,Chapman,dpa,yes,J,U,39,NA,no,no,NA,NA,uninfected,,juvenile
+1263,2023,2/24/23,Chapman,dpa,yes,A,U,76,486,no,no,NA,NA,uninfected,,adult
+1264,2023,2/24/23,Chapman,dpa,yes,A,B,5,2,no,no,NA,NA,brood,,adult
+1265,2023,2/24/23,Chapman,bos,no,NA,U,40,NA,no,no,NA,NA,uninfected,,check
+1266,2023,2/24/23,Chapman,cer,no,NA,U,35,NA,no,no,NA,NA,uninfected,,check
+1267,2023,3/9/23,Dean's,dam,yes,J,U,127,NA,yes,no,NA,NA,uninfected,,juvenile
+1268,2023,3/9/23,Dean's,dam,yes,A,U,139,367,yes,no,NA,NA,uninfected,,adult
+1269,2023,3/9/23,Dean's,dam,yes,M,U,2,NA,yes,no,NA,NA,uninfected,,male
+1270,2023,3/9/23,Dean's,dam,yes,E,U,3,NA,yes,no,NA,NA,uninfected,,ephippial
+1271,2023,3/9/23,Dean's,dpa,yes,J,U,43,NA,yes,no,NA,NA,uninfected,,juvenile
+1272,2023,3/9/23,Dean's,dpa,yes,A,U,35,168,yes,no,NA,NA,uninfected,,adult
+1273,2023,3/9/23,Dean's,cer,no,NA,U,174,NA,yes,no,NA,NA,uninfected,,check
+1274,2023,3/9/23,Dean's,dia,no,NA,U,2,NA,yes,no,NA,NA,uninfected,,check
+1275,2023,3/9/23,Dean's,dla,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+1276,2023,3/9/23,Dean's,dla,yes,A,U,2,8,yes,no,NA,NA,uninfected,,adult
+1277,2023,3/9/23,Dean's,dla,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1278,2023,3/9/23,Deer,dam,yes,J,U,182,NA,yes,no,NA,NA,uninfected,,juvenile
+1279,2023,3/9/23,Deer,dam,yes,A,U,97,251,yes,no,NA,NA,uninfected,,adult
+1280,2023,3/9/23,Deer,dam,yes,M,U,13,NA,yes,no,NA,NA,uninfected,,male
+1281,2023,3/9/23,Deer,dam,yes,E,U,27,NA,yes,no,NA,NA,uninfected,,ephippial
+1282,2023,3/9/23,Deer,dam,yes,A,L,7,8,yes,no,NA,throat infections,larssonia,,adult
+1283,2023,3/9/23,Deer,dam,yes,E,L,1,NA,yes,no,NA,throat infections,larssonia,,ephippial
+1284,2023,3/9/23,Deer,dla,yes,A,U,1,5,yes,no,NA,NA,uninfected,,adult
+1285,2023,3/9/23,Deer,dla,yes,E,U,1,NA,yes,no,NA,NA,uninfected,,ephippial
+1286,2023,3/9/23,NN3,dla,yes,J,U,30,NA,yes,no,NA,NA,uninfected,,juvenile
+1287,2023,3/9/23,NN3,dla,yes,A,U,6,21,yes,no,NA,NA,uninfected,,adult
+1288,2023,3/9/23,NN3,dam,yes,J,U,2,NA,yes,no,NA,NA,uninfected,,juvenile
+1289,2023,3/9/23,NN3,dam,yes,A,U,5,3,yes,no,NA,NA,uninfected,,adult
+1290,2023,3/9/23,NN3,dam,yes,A,L,2,2,yes,no,NA,NA,larssonia,,adult
+1291,2023,3/9/23,NN3,sim,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+1292,2023,3/9/23,NN3,sim,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+1293,2023,3/9/23,Catfish,dla,yes,J,U,280,NA,yes,no,NA,NA,uninfected,,juvenile
+1294,2023,3/9/23,Catfish,dla,yes,A,U,41,82,yes,no,NA,NA,uninfected,,adult
+1295,2023,3/9/23,Catfish,dla,yes,M,U,4,NA,yes,no,NA,NA,uninfected,,male
+1296,2023,3/9/23,Catfish,dla,yes,E,U,1,NA,yes,no,NA,NA,uninfected,,ephippial
+1297,2023,3/9/23,Catfish,hgi,yes,J,U,143,NA,yes,no,NA,NA,uninfected,,juvenile
+1298,2023,3/9/23,Catfish,hgi,yes,A,U,101,66,yes,no,NA,NA,uninfected,,adult
+1299,2023,3/9/23,Catfish,dam,yes,A,U,0,NA,yes,no,NA,NA,uninfected,,adult
+1300,2023,3/9/23,VIP,dam,yes,J,U,121,NA,yes,no,NA,NA,uninfected,,juvenile
+1301,2023,3/9/23,VIP,dam,yes,A,U,272,135,yes,no,NA,NA,uninfected,,adult
+1302,2023,3/9/23,VIP,dam,yes,A,L,6,0,yes,no,NA,NA,larssonia,,adult
+1303,2023,3/9/23,VIP,dam,yes,E,U,4,NA,yes,no,NA,NA,uninfected,,ephippial
+1304,2023,3/9/23,VIP,dam,yes,A,B,1,NA,yes,no,NA,NA,brood,,adult
+1305,2023,3/9/23,Sister 1,dla,yes,J,U,68,NA,yes,no,NA,NA,uninfected,,juvenile
+1306,2023,3/9/23,Sister 1,dla,yes,A,U,27,95,yes,no,NA,NA,uninfected,,adult
+1307,2023,3/9/23,Sister 1,dla,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1308,2023,3/9/23,Sister 1,dam,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+1309,2023,3/9/23,Big Sister,dam,yes,J,U,154,NA,yes,no,NA,NA,uninfected,,juvenile
+1310,2023,3/9/23,Big Sister,dam,yes,A,U,158,235,yes,no,NA,NA,uninfected,,adult
+1311,2023,3/9/23,Big Sister,dam,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1312,2023,3/9/23,Big Sister,dam,yes,A,L,7,5,yes,no,NA,NA,larssonia,,adult
+1313,2023,3/9/23,Big Sister,dam,yes,A,B,1,NA,yes,no,NA,NA,brood,,adult
+1314,2023,3/9/23,Big Sister,cer,no,NA,U,10,NA,yes,no,NA,NA,uninfected,,check
+1315,2023,3/9/23,Big Sister,bos,no,NA,U,159,NA,yes,no,NA,NA,uninfected,,check
+1316,2023,3/17/23,Memorial,dpa,yes,J,U,177,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1317,2023,3/17/23,Memorial,dpa,yes,A,U,205,367,N/A,N/A,NA,NA,uninfected,,adult
+1318,2023,3/17/23,Memorial,dpa,yes,M,U,2,NA,N/A,N/A,NA,NA,uninfected,,male
+1319,2023,3/17/23,Memorial,dpa,yes,A,L,3,0,N/A,N/A,NA,NA,larssonia,,adult
+1320,2023,3/17/23,Memorial,dpa,yes,A,G,2,0,N/A,N/A,NA,NA,gurleya,,adult
+1321,2023,3/17/23,Memorial,cer,no,NA,U,4,NA,N/A,N/A,NA,NA,uninfected,,check
+1322,2023,3/17/23,Memorial,bos,no,NA,U,3,NA,N/A,N/A,NA,NA,uninfected,,check
+1323,2023,3/17/23,Chapman,dam,yes,J,U,17,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1324,2023,3/17/23,Chapman,dam,yes,A,U,29,63,N/A,N/A,NA,NA,uninfected,,adult
+1325,2023,3/17/23,Chapman,dam,yes,M,U,1,NA,N/A,N/A,NA,NA,uninfected,,male
+1326,2023,3/17/23,Chapman,dpa,yes,J,U,3,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1327,2023,3/17/23,Chapman,dpa,yes,A,U,8,28,N/A,N/A,NA,NA,uninfected,,adult
+1328,2023,3/17/23,Chapman,hgi,yes,J,U,0,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1329,2023,3/17/23,Chapman,hgi,yes,A,U,6,39,N/A,N/A,NA,NA,uninfected,,adult
+1330,2023,3/17/23,Chapman,dia,no,NA,U,2,NA,N/A,N/A,NA,NA,uninfected,,check
+1331,2023,3/17/23,Chapman,bos,no,NA,U,16,NA,N/A,N/A,NA,NA,uninfected,,check
+1332,2023,3/17/23,Chapman,cer,no,NA,U,17,NA,N/A,N/A,NA,NA,uninfected,,check
+1333,2023,3/17/23,Oglethorpe,dam,yes,J,U,72,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1334,2023,3/17/23,Oglethorpe,dam,yes,A,U,197,185,N/A,N/A,NA,NA,uninfected,,adult
+1335,2023,3/17/23,Oglethorpe,dam,yes,M,U,10,NA,N/A,N/A,NA,NA,uninfected,,male
+1336,2023,3/17/23,Oglethorpe,dam,yes,E,U,15,NA,N/A,N/A,NA,NA,uninfected,,ephippial
+1337,2023,3/17/23,Oglethorpe,dam,yes,A,C,38,2,N/A,N/A,NA,NA,chytrid,,adult
+1338,2023,3/17/23,Oglethorpe,dam,yes,A,B,1,NA,N/A,N/A,NA,NA,brood,,adult
+1339,2023,3/17/23,Oglethorpe,dam,yes,A,L,1,NA,N/A,N/A,NA,NA,larssonia,,adult
+1340,2023,3/17/23,Oglethorpe,dam,yes,A,G,4,NA,N/A,N/A,NA,NA,gurleya,,adult
+1341,2023,3/17/23,Oglethorpe,dpa,yes,J,U,31,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1342,2023,3/17/23,Oglethorpe,dpa,yes,A,U,12,16,N/A,N/A,NA,NA,uninfected,,adult
+1343,2023,3/17/23,Oglethorpe,dpa,yes,M,U,4,NA,N/A,N/A,NA,NA,uninfected,,male
+1344,2023,3/17/23,Oglethorpe,bos,no,NA,U,361,NA,N/A,N/A,NA,NA,uninfected,,check
+1345,2023,3/17/23,Oglethorpe,hgi,yes,A,U,3,20,N/A,N/A,NA,NA,uninfected,,adult
+1346,2023,3/17/23,Oglethorpe,cer,no,NA,U,1,NA,N/A,N/A,NA,NA,uninfected,,check
+1347,2023,3/24/23,Dean's,dam,yes,J,U,34,NA,yes,no,NA,NA,uninfected,,juvenile
+1348,2023,3/24/23,Dean's,dam,yes,A,U,42,75,yes,no,NA,NA,uninfected,,adult
+1349,2023,3/24/23,Dean's,dpa,yes,J,U,18,NA,yes,no,NA,NA,uninfected,,juvenile
+1350,2023,3/24/23,Dean's,dpa,yes,A,U,19,53,yes,no,NA,NA,uninfected,,adult
+1351,2023,3/24/23,Dean's,dam,yes,A,L,1,0,yes,no,NA,ambigua,larssonia,,adult
+1352,2023,3/24/23,Dean's,dia,no,NA,U,27,NA,yes,no,NA,NA,uninfected,,check
+1353,2023,3/24/23,Dean's,dia,no,NA,L,3,NA,yes,no,NA,NA,larssonia,,check
+1354,2023,3/24/23,Dean's,bos,no,NA,U,8,NA,yes,no,NA,NA,uninfected,,check
+1355,2023,3/24/23,Dean's,cer,no,NA,U,339,NA,yes,no,NA,NA,uninfected,,check
+1356,2023,3/24/23,Deer,dam,yes,J,U,179,NA,no,no,NA,NA,uninfected,,juvenile
+1357,2023,3/24/23,Deer,dam,yes,A,U,85,51,no,no,NA,NA,uninfected,,adult
+1358,2023,3/24/23,Deer,dam,yes,M,U,10,NA,no,no,NA,NA,uninfected,,male
+1359,2023,3/24/23,Deer,dam,yes,E,U,42,NA,no,no,NA,NA,uninfected,,ephippial
+1360,2023,3/24/23,Deer,dam,yes,A,L,7,0,no,no,NA,throat infections,larssonia,,adult
+1361,2023,3/24/23,Deer,dla,yes,J,U,3,NA,no,no,NA,NA,uninfected,,juvenile
+1362,2023,3/24/23,Deer,dla,yes,A,U,3,2,no,no,NA,NA,uninfected,,adult
+1363,2023,3/24/23,Deer,sca,no,NA,U,8,NA,no,no,NA,NA,uninfected,,check
+1364,2023,3/24/23,Deer,bos,no,NA,U,4,NA,no,no,NA,NA,uninfected,,check
+1365,2023,3/24/23,NN3,sim,yes,J,U,78,NA,yes,no,NA,NA,uninfected,,juvenile
+1366,2023,3/24/23,NN3,sim,yes,A,U,17,25,yes,no,NA,NA,uninfected,,adult
+1367,2023,3/24/23,NN3,dam,yes,A,U,3,2,yes,no,NA,NA,uninfected,,adult
+1368,2023,3/24/23,NN3,dla,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+1369,2023,3/24/23,NN3,dla,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+1370,2023,3/24/23,Sister 1,dla,yes,J,U,94,NA,yes,no,NA,NA,uninfected,,juvenile
+1371,2023,3/24/23,Sister 1,dla,yes,A,U,21,42,yes,no,NA,NA,uninfected,,adult
+1372,2023,3/24/23,Sister 1,dla,yes,M,U,4,NA,yes,no,NA,NA,uninfected,,male
+1373,2023,3/24/23,Sister 1,cer,no,NA,U,11,NA,yes,no,NA,NA,uninfected,,check
+1374,2023,3/24/23,VIP,dam,yes,J,U,173,NA,yes,no,NA,NA,uninfected,,juvenile
+1375,2023,3/24/23,VIP,dam,yes,A,U,164,99,yes,no,NA,NA,uninfected,,adult
+1376,2023,3/24/23,VIP,dam,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1377,2023,3/24/23,VIP,dam,yes,E,U,16,NA,yes,no,NA,NA,uninfected,,ephippial
+1378,2023,3/24/23,VIP,dam,yes,A,L,6,1,yes,no,NA,NA,larssonia,,adult
+1379,2023,3/24/23,Catfish,dla,yes,J,U,309,NA,yes,no,NA,NA,uninfected,,juvenile
+1380,2023,3/24/23,Catfish,dla,yes,A,U,51,28,yes,no,NA,NA,uninfected,,adult
+1381,2023,3/24/23,Catfish,dla,yes,M,U,2,NA,yes,no,NA,NA,uninfected,,male
+1382,2023,3/24/23,Catfish,dla,yes,E,U,1,NA,yes,no,NA,NA,uninfected,,ephippial
+1383,2023,3/24/23,Catfish,dla,yes,A,L,4,0,yes,no,NA,NA,larssonia,,adult
+1384,2023,3/24/23,Catfish,hgi,yes,J,U,29,NA,yes,no,NA,NA,uninfected,,juvenile
+1385,2023,3/24/23,Catfish,hgi,yes,A,U,56,2,yes,no,NA,NA,uninfected,,adult
+1386,2023,3/24/23,Big Sister,dam,yes,J,U,192,NA,yes,no,NA,NA,uninfected,,juvenile
+1387,2023,3/24/23,Big Sister,dam,yes,A,U,239,125,yes,no,NA,NA,uninfected,,adult
+1388,2023,3/24/23,Big Sister,dam,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1389,2023,3/24/23,Big Sister,dam,yes,E,U,5,NA,yes,no,NA,NA,uninfected,,ephippial
+1390,2023,3/24/23,Big Sister,dam,yes,A,L,39,1,yes,no,NA,NA,larssonia,,adult
+1391,2023,3/24/23,Big Sister,dla,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+1392,2023,3/24/23,Big Sister,cer,no,NA,U,18,NA,yes,no,NA,NA,uninfected,,check
+1393,2023,3/24/23,Big Sister,bos,no,NA,U,6,NA,yes,no,NA,NA,uninfected,,check
+1394,2023,3/31/23,Oglethorpe,dam,yes,J,U,206,NA,yes,no,NA,NA,uninfected,,juvenile
+1395,2023,3/31/23,Oglethorpe,dam,yes,A,U,117,190,yes,no,NA,NA,uninfected,,adult
+1396,2023,3/31/23,Oglethorpe,dam,yes,A,C,29,31,yes,no,NA,NA,chytrid,,adult
+1397,2023,3/31/23,Oglethorpe,dam,yes,A,G,1,4,yes,no,NA,NA,gurleya,,adult
+1398,2023,3/31/23,Oglethorpe,dam,yes,A,G,3,4,yes,no,NA,def. early microsporidian prob. Guyrleya? Squished one saved 2,gurleya,,adult
+1399,2023,3/31/23,Oglethorpe,dam,yes,J,C,2,NA,yes,no,NA,NA,chytrid,,juvenile
+1400,2023,3/31/23,Oglethorpe,dpa,yes,A,U,2,3,yes,no,NA,NA,uninfected,,adult
+1401,2023,3/31/23,Oglethorpe,hgi,yes,J,U,8,NA,yes,no,NA,NA,uninfected,,juvenile
+1402,2023,3/31/23,Oglethorpe,hgi,yes,A,U,10,72,yes,no,NA,NA,uninfected,,adult
+1403,2023,3/31/23,Oglethorpe,bos,no,NA,U,6,NA,yes,no,NA,NA,uninfected,,check
+1404,2023,3/31/23,Oglethorpe,cer,no,NA,U,125,NA,yes,no,NA,NA,uninfected,,check
+1405,2023,3/31/23,Bear Creek,dam,yes,J,U,234,NA,no,no,NA,NA,uninfected,,juvenile
+1406,2023,3/31/23,Bear Creek,dam,yes,A,U,97,190,no,no,NA,NA,uninfected,,adult
+1407,2023,3/31/23,Bear Creek,dam,yes,M,U,2,NA,no,no,NA,NA,uninfected,,male
+1408,2023,3/31/23,Bear Creek,dam,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+1409,2023,3/31/23,Bear Creek,dpa,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+1410,2023,3/31/23,Bear Creek,dpa,yes,A,U,4,10,no,no,NA,NA,uninfected,,adult
+1411,2023,3/31/23,Bear Creek,bos,no,NA,U,362,NA,no,no,NA,NA,uninfected,,check
+1412,2023,3/31/23,Memorial,dpa,yes,J,U,309,NA,no,no,NA,NA,uninfected,,juvenile
+1413,2023,3/31/23,Memorial,dpa,yes,A,U,106,275,no,no,NA,NA,uninfected,,adult
+1414,2023,3/31/23,Memorial,dpa,yes,A,G,3,3,no,no,NA,1 is early (like above in Og),gurleya,,adult
+1415,2023,3/31/23,Memorial,dam,yes,A,U,3,5,no,no,NA,NA,uninfected,,adult
+1416,2023,3/31/23,Memorial,dam,yes,A,C,1,1,no,no,NA,NA,chytrid,,adult
+1417,2023,3/31/23,Memorial,bos,no,NA,U,6,NA,no,no,NA,NA,uninfected,,check
+1418,2023,3/31/23,Memorial,cer,no,NA,U,16,NA,no,no,NA,NA,uninfected,,check
+1419,2023,3/31/23,Chapman,dam,yes,J,U,8,NA,no,no,NA,NA,uninfected,,juvenile
+1420,2023,3/31/23,Chapman,dam,yes,A,U,41,170,no,no,NA,NA,uninfected,,adult
+1421,2023,3/31/23,Chapman,dam,yes,A,L,3,4,no,no,NA,NA,larssonia,,adult
+1422,2023,3/31/23,Chapman,dam,yes,A,B,1,NA,no,no,NA,NA,brood,,adult
+1423,2023,3/31/23,Chapman,dpa,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+1424,2023,3/31/23,Chapman,dpa,yes,A,U,14,90,no,no,NA,NA,uninfected,,adult
+1425,2023,3/31/23,Chapman,dpa,yes,A,G,2,3,no,no,NA,NA,gurleya,,adult
+1426,2023,3/31/23,Chapman,dpa,yes,A,L,2,2,no,no,NA,NA,larssonia,,adult
+1427,2023,3/31/23,Chapman,dpa,yes,A,B,1,NA,no,no,NA,NA,brood,,adult
+1428,2023,3/31/23,Chapman,hgi,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+1429,2023,3/31/23,Chapman,hgi,yes,A,U,7,59,no,no,NA,NA,uninfected,,adult
+1430,2023,3/31/23,Chapman,bos,no,NA,U,8,NA,no,no,NA,NA,uninfected,,check
+1431,2023,3/31/23,Chapman,cer,no,NA,U,32,NA,no,no,NA,NA,uninfected,,check
+1432,2023,3/31/23,Chapman,cer,no,NA,B,3,NA,no,no,NA,NA,brood,,check
+1433,2023,4/7/23,Sister 1,dla,yes,J,U,69,NA,yes,no,NA,NA,uninfected,,juvenile
+1434,2023,4/7/23,Sister 1,dla,yes,A,U,33,82,yes,no,NA,NA,uninfected,,adult
+1435,2023,4/7/23,Sister 1,dla,yes,M,U,1,NA,yes,no,NA,NA,uninfected,,male
+1436,2023,4/7/23,Sister 1,dam,yes,A,U,1,1,yes,no,NA,NA,uninfected,,adult
+1437,2023,4/7/23,Sister 1,sim,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+1438,2023,4/7/23,Sister 1,sim,yes,A,U,1,0,yes,no,NA,NA,uninfected,,adult
+1439,2023,4/7/23,Sister 1,sim,yes,A,G,1,0,yes,no,NA,probably G,gurleya,,adult
+1440,2023,4/7/23,Sister 1,cer,no,NA,U,3,NA,yes,no,NA,NA,uninfected,,check
+1441,2023,4/7/23,Big Sister,dam,yes,J,U,148,NA,no,no,NA,NA,uninfected,,juvenile
+1442,2023,4/7/23,Big Sister,dam,yes,A,U,139,107,no,no,NA,NA,uninfected,,adult
+1443,2023,4/7/23,Big Sister,dam,yes,E,U,3,NA,no,no,NA,NA,uninfected,,ephippial
+1444,2023,4/7/23,Big Sister,dam,yes,A,L,25,4,no,no,NA,NA,larssonia,,adult
+1445,2023,4/7/23,Big Sister,dla,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+1446,2023,4/7/23,Big Sister,dla,yes,A,U,6,21,no,no,NA,NA,uninfected,,adult
+1447,2023,4/7/23,Big Sister,cer,no,NA,U,210,NA,no,no,NA,NA,uninfected,,check
+1448,2023,4/7/23,Big Sister,bos,no,NA,U,76,NA,no,no,NA,NA,uninfected,,check
+1449,2023,4/7/23,Catfish,dla,yes,J,U,3,NA,yes,no,NA,NA,uninfected,,juvenile
+1450,2023,4/7/23,Catfish,dla,yes,A,U,2,13,yes,no,NA,NA,uninfected,,adult
+1451,2023,4/7/23,Catfish,hgi,yes,J,U,86,NA,yes,no,NA,NA,uninfected,,juvenile
+1452,2023,4/7/23,Catfish,hgi,yes,A,U,50,26,yes,no,NA,NA,uninfected,,adult
+1453,2023,4/7/23,Deer,dam,yes,J,U,192,NA,no,no,NA,NA,uninfected,,juvenile
+1454,2023,4/7/23,Deer,dam,yes,A,U,99,206,no,no,NA,NA,uninfected,,adult
+1455,2023,4/7/23,Deer,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+1456,2023,4/7/23,Deer,dam,yes,E,U,11,NA,no,no,NA,NA,uninfected,,ephippial
+1457,2023,4/7/23,Deer,dam,yes,A,L,12,10,no,no,NA,NA,larssonia,,adult
+1458,2023,4/7/23,Deer,dla,yes,J,U,7,NA,no,no,NA,NA,uninfected,,juvenile
+1459,2023,4/7/23,Deer,dla,yes,A,U,3,7,no,no,NA,NA,uninfected,,adult
+1460,2023,4/7/23,Deer,bos,no,NA,U,329,NA,no,no,NA,NA,uninfected,,check
+1461,2023,4/7/23,Deer,bos,no,NA,B,1,NA,no,no,NA,NA,brood,,check
+1462,2023,4/7/23,VIP,dam,yes,J,U,137,NA,no,no,NA,NA,uninfected,,juvenile
+1463,2023,4/7/23,VIP,dam,yes,A,U,166,73,no,no,NA,NA,uninfected,,adult
+1464,2023,4/7/23,VIP,dam,yes,A,L,3,0,no,no,NA,NA,larssonia,,adult
+1465,2023,4/7/23,VIP,bos,no,NA,U,5,NA,no,no,NA,NA,uninfected,,check
+1466,2023,4/7/23,Dean's,dam,yes,J,U,64,NA,no,no,NA,NA,uninfected,,juvenile
+1467,2023,4/7/23,Dean's,dam,yes,A,U,75,76,no,no,NA,NA,uninfected,,adult
+1468,2023,4/7/23,Dean's,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+1469,2023,4/7/23,Dean's,dam,yes,A,L,7,3,no,no,NA,NA,larssonia,,adult
+1470,2023,4/7/23,Dean's,dpa,yes,J,U,35,NA,no,no,NA,NA,uninfected,,juvenile
+1471,2023,4/7/23,Dean's,dpa,yes,A,U,41,61,no,no,NA,NA,uninfected,,adult
+1472,2023,4/7/23,Dean's,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+1473,2023,4/7/23,Dean's,dia,no,NA,U,68,NA,no,no,NA,NA,uninfected,,check
+1474,2023,4/7/23,Dean's,dia,no,NA,L,56,NA,no,no,NA,NA,larssonia,,check
+1475,2023,4/7/23,Dean's,bos,no,NA,U,12,NA,no,no,NA,NA,uninfected,,check
+1476,2023,4/7/23,Dean's,cer,no,NA,U,671,NA,no,no,NA,NA,uninfected,,check
+1477,2023,4/13/23,Chapman,dam,yes,J,U,38,NA,no,no,NA,NA,uninfected,,juvenile
+1478,2023,4/13/23,Chapman,dam,yes,A,U,8,11,no,no,NA,NA,uninfected,,adult
+1479,2023,4/13/23,Chapman,dam,yes,A,L,2,1,no,no,NA,NA,larssonia,,adult
+1480,2023,4/13/23,Chapman,dam,yes,A,G,1,2,no,no,NA,NA,gurleya,,adult
+1481,2023,4/13/23,Chapman,dam,yes,A,B,1,NA,no,no,NA,NA,brood,,adult
+1482,2023,4/13/23,Chapman,dpa,yes,J,U,6,NA,no,no,NA,NA,uninfected,,juvenile
+1483,2023,4/13/23,Chapman,dpa,yes,A,U,5,6,no,no,NA,NA,uninfected,,adult
+1484,2023,4/13/23,Chapman,dpa,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+1485,2023,4/13/23,Chapman,bos,no,NA,U,88,NA,no,no,NA,NA,uninfected,,check
+1486,2023,4/13/23,Chapman,bos,no,NA,B,4,NA,no,no,NA,NA,brood,,check
+1487,2023,4/13/23,Chapman,cer,no,NA,U,567,NA,no,no,NA,NA,uninfected,,check
+1488,2023,4/13/23,Chapman,cer,no,NA,B,14,NA,no,no,NA,NA,brood,,check
+1489,2023,4/13/23,Memorial,dpa,yes,J,U,269,NA,yes,no,NA,NA,uninfected,,juvenile
+1490,2023,4/13/23,Memorial,dpa,yes,A,U,59,77,yes,no,NA,NA,uninfected,,adult
+1491,2023,4/13/23,Memorial,dpa,yes,A,G,6,3,yes,no,NA,NA,gurleya,,adult
+1492,2023,4/13/23,Memorial,dpa,yes,A,L,1,0,yes,no,NA,NA,larssonia,,adult
+1493,2023,4/13/23,Memorial,sim,yes,A,U,1,6,yes,no,NA,NA,uninfected,,adult
+1494,2023,4/13/23,Memorial,bos,no,NA,U,6,NA,no,no,NA,NA,uninfected,,check
+1495,2023,4/13/23,Memorial,cer,no,NA,U,28,NA,no,no,NA,NA,uninfected,,check
+1496,2023,4/13/23,NN3,dla,yes,J,U,21,NA,yes,no,NA,NA,uninfected,,juvenile
+1497,2023,4/13/23,NN3,dla,yes,A,U,6,31,yes,no,NA,NA,uninfected,,adult
+1498,2023,4/13/23,NN3,sim,yes,J,U,5,NA,yes,no,NA,NA,uninfected,,juvenile
+1499,2023,4/13/23,Oglethorpe,dam,yes,J,U,18,NA,yes,no,NA,NA,uninfected,,juvenile
+1500,2023,4/13/23,Oglethorpe,dam,yes,A,U,24,24,yes,no,NA,NA,uninfected,,adult
+1501,2023,4/13/23,Oglethorpe,dam,yes,A,C,4,2,yes,no,NA,NA,chytrid,,adult
+1502,2023,4/13/23,Oglethorpe,hgi,yes,J,U,17,NA,yes,no,NA,NA,uninfected,,juvenile
+1503,2023,4/13/23,Oglethorpe,hgi,yes,A,U,114,326,yes,no,NA,NA,uninfected,,adult
+1504,2023,4/13/23,Oglethorpe,bos,no,NA,U,4,NA,yes,no,NA,NA,uninfected,,check
+1505,2023,4/13/23,Oglethorpe,cer,no,NA,U,18,NA,yes,no,NA,NA,uninfected,,check
+1506,2023,4/21/23,VIP,dam,yes,J,U,146,NA,no,no,NA,NA,uninfected,,juvenile
+1507,2023,4/21/23,VIP,dam,yes,A,U,221,235,no,no,NA,NA,uninfected,,adult
+1508,2023,4/21/23,VIP,dam,yes,M,U,5,NA,no,no,NA,NA,uninfected,,male
+1509,2023,4/21/23,VIP,dam,yes,E,U,8,NA,no,no,NA,NA,uninfected,,ephippial
+1510,2023,4/21/23,VIP,dam,yes,A,L,4,0,no,no,NA,NA,larssonia,,adult
+1511,2023,4/21/23,Big Sister,dam,yes,J,U,62,NA,no,no,NA,NA,uninfected,,juvenile
+1512,2023,4/21/23,Big Sister,dam,yes,A,U,55,48,no,no,NA,NA,uninfected,,adult
+1513,2023,4/21/23,Big Sister,dla,yes,J,U,5,NA,no,no,NA,NA,uninfected,,juvenile
+1514,2023,4/21/23,Big Sister,dia,no,NA,L,2,NA,no,no,NA,NA,larssonia,,check
+1515,2023,4/21/23,Big Sister,bos,no,NA,U,250,NA,no,no,NA,NA,uninfected,,check
+1516,2023,4/21/23,Big Sister,cer,no,NA,U,320,NA,no,no,NA,NA,uninfected,,check
+1517,2023,4/21/23,Catfish,hgi,yes,J,U,274,NA,no,no,NA,NA,uninfected,,juvenile
+1518,2023,4/21/23,Catfish,hgi,yes,A,U,219,105,no,no,NA,NA,uninfected,,adult
+1519,2023,4/21/23,Catfish,dam,yes,J,U,4,NA,no,no,NA,NA,uninfected,,juvenile
+1520,2023,4/21/23,Catfish,dam,yes,A,U,23,29,no,no,NA,NA,uninfected,,adult
+1521,2023,4/21/23,Catfish,dla,yes,J,U,47,NA,no,no,NA,NA,uninfected,,juvenile
+1522,2023,4/21/23,Catfish,dla,yes,A,U,3,37,no,no,NA,NA,uninfected,,adult
+1523,2023,4/21/23,Catfish,bos,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1524,2023,4/21/23,Catfish,cer,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1525,2023,4/21/23,Sister 1,dla,yes,J,U,92,NA,no,no,NA,NA,uninfected,,juvenile
+1526,2023,4/21/23,Sister 1,dla,yes,A,U,53,92,no,no,NA,NA,uninfected,,adult
+1527,2023,4/21/23,Sister 1,dla,yes,M,U,3,NA,no,no,NA,NA,uninfected,,male
+1528,2023,4/21/23,Sister 1,dam,yes,A,U,5,5,no,no,NA,NA,uninfected,,adult
+1529,2023,4/21/23,Sister 1,dpa,yes,A,U,1,1,no,no,NA,NA,uninfected,,adult
+1530,2023,4/21/23,Sister 1,hgi,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+1531,2023,4/21/23,Sister 1,hgi,yes,A,U,1,NA,no,no,NA,NA,uninfected,,adult
+1532,2023,4/21/23,Sister 1,dia,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1533,2023,4/21/23,Sister 1,bos,no,NA,U,1,NA,no,no,NA,NA,uninfected,,check
+1534,2023,4/21/23,Sister 1,cer,no,NA,U,4,NA,no,no,NA,NA,uninfected,,check
+1535,2023,4/21/23,Deer,dam,yes,J,U,25,NA,no,no,NA,NA,uninfected,,juvenile
+1536,2023,4/21/23,Deer,dam,yes,A,U,38,147,no,no,NA,NA,uninfected,,adult
+1537,2023,4/21/23,Deer,dam,yes,E,U,1,NA,no,no,NA,NA,uninfected,,ephippial
+1538,2023,4/21/23,Deer,dam,yes,A,L,1,0,no,no,NA,NA,larssonia,,adult
+1539,2023,4/21/23,Deer,bos,no,NA,U,477,NA,no,no,NA,NA,uninfected,,check
+1540,2023,4/21/23,Deer,bos,no,NA,B,2,NA,no,no,NA,NA,brood,,check
+1541,2023,4/21/23,Deer,dla,yes,J,U,1,NA,no,no,NA,NA,uninfected,,juvenile
+1542,2023,4/21/23,Deer,dla,yes,A,U,2,18,no,no,NA,NA,uninfected,,adult
+1543,2023,4/21/23,Dean's,dam,yes,J,U,27,NA,no,no,NA,NA,uninfected,,juvenile
+1544,2023,4/21/23,Dean's,dam,yes,A,U,40,34,no,no,NA,NA,uninfected,,adult
+1545,2023,4/21/23,Dean's,dpa,yes,J,U,7,NA,no,no,NA,NA,uninfected,,juvenile
+1546,2023,4/21/23,Dean's,dpa,yes,A,U,7,11,no,no,NA,NA,uninfected,,adult
+1547,2023,4/21/23,Dean's,dpa,yes,A,L,2,0,no,no,NA,NA,larssonia,,adult
+1548,2023,4/21/23,Dean's,dia,no,NA,U,68,NA,no,no,NA,NA,uninfected,,check
+1549,2023,4/21/23,Dean's,dia,no,NA,L,8,NA,no,no,NA,NA,larssonia,,check
+1550,2023,4/21/23,Dean's,bos,no,NA,U,55,NA,no,no,NA,NA,uninfected,,check
+1551,2023,4/21/23,Dean's,cer,no,NA,U,308,NA,no,no,NA,NA,uninfected,,check
+1552,2023,4/21/23,Dean's,cer,no,NA,L,1,NA,no,no,NA,NA,larssonia,,check
+1553,2023,4/28/23,Bear Creek,dpa,yes,J,U,200,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1554,2023,4/28/23,Bear Creek,dpa,yes,A,U,125,136,N/A,N/A,NA,NA,uninfected,,adult
+1555,2023,4/28/23,Bear Creek,dpa,yes,M,U,11,NA,N/A,N/A,NA,NA,uninfected,,male
+1556,2023,4/28/23,Bear Creek,dpa,yes,E,U,16,NA,N/A,N/A,NA,NA,uninfected,,ephippial
+1557,2023,4/28/23,Bear Creek,dpa,yes,A,G,1,0,N/A,N/A,NA,NA,gurleya,,adult
+1558,2023,4/28/23,Bear Creek,dam,yes,J,U,7,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1559,2023,4/28/23,Bear Creek,dam,yes,A,U,16,16,N/A,N/A,NA,NA,uninfected,,adult
+1560,2023,4/28/23,Bear Creek,dam,yes,E,U,1,NA,N/A,N/A,NA,NA,uninfected,,ephippial
+1561,2023,4/28/23,Bear Creek,bos,no,NA,U,73,NA,N/A,N/A,NA,NA,uninfected,,check
+1562,2023,4/28/23,Oglethorpe,dam,yes,J,U,44,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1563,2023,4/28/23,Oglethorpe,dam,yes,A,U,43,100,N/A,N/A,NA,NA,uninfected,,adult
+1564,2023,4/28/23,Oglethorpe,dam,yes,A,G,2,4,N/A,N/A,NA,NA,gurleya,,adult
+1565,2023,4/28/23,Oglethorpe,dam,yes,A,C,2,2,N/A,N/A,NA,NA,chytrid,,adult
+1566,2023,4/28/23,Oglethorpe,hgi,yes,J,U,90,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1567,2023,4/28/23,Oglethorpe,hgi,yes,A,U,58,66,N/A,N/A,NA,NA,uninfected,,adult
+1568,2023,4/28/23,Oglethorpe,bos,no,NA,U,20,NA,N/A,N/A,NA,NA,uninfected,,check
+1569,2023,4/28/23,Oglethorpe,cer,no,NA,U,27,NA,N/A,N/A,NA,NA,uninfected,,check
+1570,2023,4/28/23,Oglethorpe,dpa,yes,A,U,1,4,N/A,N/A,NA,NA,uninfected,,adult
+1571,2023,4/28/23,Memorial,dpa,yes,J,U,224,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1572,2023,4/28/23,Memorial,dpa,yes,A,U,85,122,N/A,N/A,NA,NA,uninfected,,adult
+1573,2023,4/28/23,Memorial,dpa,yes,M,U,1,NA,N/A,N/A,NA,NA,uninfected,,male
+1574,2023,4/28/23,Memorial,dpa,yes,E,U,1,NA,N/A,N/A,NA,NA,uninfected,,ephippial
+1575,2023,4/28/23,Memorial,dpa,yes,A,G,10,3,N/A,N/A,NA,NA,gurleya,,adult
+1576,2023,4/28/23,Memorial,hgi,yes,A,U,NA,NA,N/A,N/A,NA,NA,uninfected,,adult
+1577,2023,4/28/23,Memorial,bos,no,NA,U,12,NA,N/A,N/A,NA,NA,uninfected,,check
+1578,2023,4/28/23,Memorial,cer,no,NA,U,249,NA,N/A,N/A,NA,NA,uninfected,,check
+1579,2023,4/28/23,Chapman,dpa,yes,J,U,2,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1580,2023,4/28/23,Chapman,dpa,yes,A,U,15,18,N/A,N/A,NA,NA,uninfected,,adult
+1581,2023,4/28/23,Chapman,dpa,yes,A,B,1,NA,N/A,N/A,NA,NA,brood,,adult
+1582,2023,4/28/23,Chapman,dam,yes,J,U,26,NA,N/A,N/A,NA,NA,uninfected,,juvenile
+1583,2023,4/28/23,Chapman,dam,yes,A,U,12,34,N/A,N/A,NA,NA,uninfected,,adult
+1584,2023,4/28/23,Chapman,dam,yes,A,L,3,NA,N/A,N/A,NA,NA,larssonia,,adult
+1585,2023,4/28/23,Chapman,cer,no,NA,U,578,NA,N/A,N/A,NA,NA,uninfected,,check
+1586,2023,4/28/23,Chapman,cer,no,NA,B,19,NA,N/A,N/A,NA,NA,brood,,check
+1587,2023,4/28/23,Chapman,cer,no,NA,L,1,NA,N/A,N/A,NA,NA,larssonia,,check
+1588,2023,4/28/23,Chapman,bos,no,NA,U,4,NA,N/A,N/A,NA,NA,uninfected,,check
+1589,2023,5/3/23,Catfish,hgi,yes,J,U,133,NA,NA,NA,NA,NA,uninfected,,juvenile
+1590,2023,5/3/23,Catfish,hgi,yes,A,U,232,112,no,no,NA,NA,uninfected,,adult
+1591,2023,5/3/23,Catfish,dla,yes,J,U,29,NA,no,no,NA,NA,uninfected,,juvenile
+1592,2023,5/3/23,Catfish,dla,yes,A,U,16,54,no,no,NA,NA,uninfected,,adult
+1593,2023,5/3/23,Big Sister,dam,yes,J,U,15,NA,no,no,NA,NA,uninfected,,juvenile
+1594,2023,5/3/23,Big Sister,dam,yes,A,U,18,19,no,no,NA,NA,uninfected,,adult
+1595,2023,5/3/23,Big Sister,dla,yes,J,U,2,NA,no,no,NA,NA,uninfected,,juvenile
+1596,2023,5/3/23,Big Sister,dla,yes,A,U,2,4,no,no,NA,NA,uninfected,,adult
+1597,2023,5/3/23,Big Sister,bos,no,NA,U,154,NA,no,no,NA,NA,uninfected,,check
+1598,2023,5/3/23,Big Sister,cer,no,NA,U,70,NA,no,no,NA,NA,uninfected,,check
+1599,2023,5/3/23,Deer,dam,yes,J,U,175,NA,no,no,NA,"some bos have dark eggs, but don't think it is parasites",uninfected,,juvenile
+1600,2023,5/3/23,Deer,dam,yes,A,U,137,151,no,no,NA,NA,uninfected,,adult
+1601,2023,5/3/23,Deer,dam,yes,M,U,1,NA,no,no,NA,NA,uninfected,,male
+1602,2023,5/3/23,Deer,dam,yes,E,U,49,NA,no,no,NA,diatoms have chytrids?,uninfected,,ephippial
+1603,2023,5/3/23,Deer,dam,yes,A,L,3,1,no,no,NA,NA,larssonia,,adult
+1604,2023,5/3/23,Deer,dla,yes,J,U,3,NA,no,no,NA,NA,uninfected,,juvenile
+1605,2023,5/3/23,Deer,dla,yes,A,U,3,15,no,no,NA,NA,uninfected,,adult
+1606,2023,5/3/23,Deer,bos,no,NA,U,381,NA,no,no,NA,NA,uninfected,,check
+1607,2023,5/3/23,Sister 1,dla,yes,J,U,42,NA,yes,no,NA,NA,uninfected,,juvenile
+1608,2023,5/3/23,Sister 1,dla,yes,A,U,49,117,yes,no,NA,NA,uninfected,,adult
+1609,2023,5/3/23,Sister 1,cer,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1610,2023,5/3/23,Sister 1,bos,no,NA,U,1,NA,yes,no,NA,NA,uninfected,,check
+1611,2023,5/3/23,NN3,dla,yes,J,U,74,NA,yes,no,NA,NA,uninfected,,juvenile
+1612,2023,5/3/23,NN3,dla,yes,A,U,16,70,yes,no,NA,NA,uninfected,,adult
+1613,2023,5/3/23,VIP,dam,yes,J,U,201,NA,yes,no,NA,NA,uninfected,,juvenile
+1614,2023,5/3/23,VIP,dam,yes,A,U,148,149,yes,no,NA,NA,uninfected,,adult
+1615,2023,5/3/23,VIP,dam,yes,E,U,13,NA,yes,no,NA,NA,uninfected,,ephippial
+1616,2023,5/3/23,VIP,bos,no,NA,U,37,NA,yes,no,NA,NA,uninfected,,check
+1617,2023,5/3/23,Dean's,dam,yes,J,U,20,NA,yes,no,NA,NA,uninfected,,juvenile
+1618,2023,5/3/23,Dean's,dam,yes,A,U,9,15,yes,no,NA,NA,uninfected,,adult
+1619,2023,5/3/23,Dean's,dpa,yes,J,U,22,NA,yes,no,NA,NA,uninfected,,juvenile
+1620,2023,5/3/23,Dean's,dpa,yes,A,U,14,23,yes,no,NA,NA,uninfected,,adult
+1621,2023,5/3/23,Dean's,dia,no,NA,U,28,NA,yes,no,NA,NA,uninfected,,check
+1622,2023,5/3/23,Dean's,dia,no,NA,L,6,NA,yes,no,NA,NA,larssonia,,check
+1623,2023,5/3/23,Dean's,bos,no,NA,U,172,NA,yes,no,NA,NA,uninfected,,check
+1624,2023,5/3/23,Dean's,cer,no,NA,U,112,NA,yes,no,NA,NA,uninfected,,check
