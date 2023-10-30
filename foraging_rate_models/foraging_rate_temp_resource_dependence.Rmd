@@ -1,0 +1,262 @@
+---
+title: "Foraging rate est."
+author: "Katie Schroeder"
+date: "2023-10-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages, message=FALSE}
+library(tidyverse)
+library(deSolve)
+library(magrittr)
+
+```
+
+
+The purpose of this document is to estimate foraging rate using maximum likelihood estimation and multiple models for foraging rate. At its simplest, foraging rate is a constant unaffected by any external conditions. However, we hypothesize that temperature and resource concentration will influence foraging rate. Under different resource conditions, we expect foraging rate to change with changes in resource concentration as a type II functional response. Under a type II functional response, foraging rate increases non-linearly with resource concentration and will asymptote at a sufficiently high resource concentration. Mechanistically, this is due to the inclusion of handling time. At a certain point, feeding rate is constrained by handling time, even if there is a seemingly endless amount of food available. Temperature is also expected to change foraging rate behavior. Temperature may increase encounter rates with food and cause the consumer to forage at a higher rate. We attempt to incorporate the effects of temperature using an Arrhenius equation, an equation typically used to model temperature affects on reaction rates. 
+
+Overall, we will develop four models that can be used to describe foraging rate:  
+
+* Our independent model assumes no affects of temperature or resource conditions.  
+* Our resource-dependent model assumes a type II functional response.  
+* Our temperature-dependent model incorporates an affect of temperature using an Arrhenius equation.  
+* Our full model incoporates effects of both resource and temperature.
+
+We will use each of these models to develop parameter estimates for foraging rate. Each model is an equation and can be used to generate data. We generate data for a range of parameter estimates and measure the likelihood of these simulated data given our actual observed data. We choose the parameter estimate under each model that maximizes the likelihood. We choose the model with the highest likelihood. 
+
+
+## Model 1 - Independent model  
+
+Model 1 will also serve as an example for the more detailed methods used.
+
+First, we can write out our equations. To do this, we should think about our experiment. In our foraging rate assay, we measured the change in resource (algae) concentration in a tube over time after adding a single *Daphnia* to the tube. So we can write an equation to model the change in resource concentration over time.
+
+We use a first-order linear differential equation to represent resource concentration because we expect the rate of change to depend on the amount of resources available. Normally, the rate of change of the resource (our state variable) might also include an expression for growth (usually logistic), but because we conducted this experiment in the dark we can assume that no growth is occurring and can omit that expression. We are left with just the loss term (how much is being foraged). Our loss term should also be a per-capita term and depend on the number of individuals foraging, but in our experiment there is only a single daphnia ever foraging per assay so the S term is the hosts/mL (1/40mL).
+$$
+\begin{equation}
+f(R) = R + \frac{dR}{dt} \\
+\frac{dR}{dt} = -fRS \\
+\end{equation}
+$$
+
+Now that we have our differential equation, we can use this to estimate the amount of algae after a given amount of time. We can do this by numerically solving our differential equation and seeing how much algae remains after a given amount of time. 
+
+```{r, m1_num_sol}
+m1_num_sol <- function(t, x, params){
+  R <- x[1]
+  with(as.list(params),{
+    dR <- -f*R*S
+    res <- c(dR)
+    list(res)}
+    )
+}
+
+maxTime <- 8  #length of foraging assay
+times <- seq(0,maxTime,by=0.1)
+
+params <- c(f=0.5,S=1/40)
+
+xstart <- c(R=1)
+
+output <- as.data.frame(lsoda(xstart, times, m1_num_sol, params))
+
+
+```
+
+If we want to integrate and solve for f, we get the following equations (two ways of writing it):  
+$$
+f=-ln(\frac{R_t}{R_0}) (\frac{1}{St}) \\
+f=-ln(\frac{R_t}{R_0}) (\frac{V}{t})
+$$
+
+## Adjusting for length  
+
+Foraging rate is dependent on host length, usually by length approximately squared. We'll incorporate the dependence of foraging rate on length here by using l (length) to the gamma power (again, usually ~2). This alters our differential equation and its solved form to being:  
+
+$$
+\begin{equation}
+\frac{dR}{dt} = -f l^\gamma RS \\
+f = -ln(\frac{R_t}{R_0})(\frac{1}{l^\gamma St})
+\end{equation}
+$$
+```{r, m1_num_sol}
+m2_num_sol <- function(t, l, y, p_list){
+   R<-y[1]
+  with(as.list(p_list),{
+    dR <- -f*R*S*l^gam
+    res <- c(dR)
+    list(res)}
+    )
+}
+
+maxTime <- 8  #length of foraging assay
+times <- seq(0,maxTime,by=0.1)
+
+out2list <- list()
+p_list <- cbind(l=seq(0.5,2,by=0.1),
+            f=0.5,
+            S=1/40,
+            gam=2.15) 
+#gamma value from Marta's AmNat paper
+for(i in 1:nrow(p_list))
+  out2list[[i]] <- ode(y=c(y=1),
+                       times=times,
+                       func=m2_num_sol,
+                       parms=p_list[i,],
+                       p_list=p_list[i,])
+
+as.data.frame(out2list) %>%
+  pivot_longer(-time,names_to="series",values_to="values") %>%
+  filter(!grepl("time",series)) %>%
+  ggplot(aes(x=time,
+             y=values,
+             color=series)) +
+  geom_line() +
+  theme_classic() +
+  theme(panel.grid=element_blank())
+```
+## Adding in temperature  
+
+We can add temperature using an Arrhenius equation. In Marta's Am Nat paper, the following equation was used: 
+
+$$
+f(T,L) = L^\gamma \cdot f_R \cdot e^{T_A(\frac{1}{T_R}-\frac{1}{T})} \\
+f = -ln(\frac{R_t}{R_0})(\frac{1}{l^\gamma Stf_R \cdot e^{T_A(\frac{1}{T_R}-\frac{1}{T})}})
+$$
+We can substitute this into our equation from part 2:
+```{r}
+m3_num_sol <- function(t, l, y, p_list2){
+   R<-y[1]
+  with(as.list(p_list2),{
+    dR <- -R*S*l^gam*f_R*exp(T_A*(1/T_R-1/T))
+    res <- c(dR)
+    list(res)}
+    )
+}
+
+maxTime <- 8  #length of foraging assay
+times <- seq(0,maxTime,by=0.1)
+
+out3list <- list()
+p_list2 <- cbind(l=seq(0.5,2,by=0.1),
+            f_R=0.00539,
+            T_A=8740,
+            T_R=293.15,
+            f=0.5,
+            S=1/40,
+            gam=2.15) 
+#gamma value from Marta's AmNat paper
+for(i in 1:nrow(p_list))
+  out2list[[i]] <- ode(y=c(y=1),
+                       times=times,
+                       func=m2_num_sol,
+                       parms=p_list[i,],
+                       p_list=p_list[i,])
+
+as.data.frame(out2list) %>%
+  pivot_longer(-time,names_to="series",values_to="values") %>%
+  filter(!grepl("time",series)) %>%
+  ggplot(aes(x=time,
+             y=values,
+             color=series)) +
+  geom_line() +
+  theme_classic() +
+  theme(panel.grid=element_blank())
+```
+
+## Foraging rate data
+
+We have data from the foraging rate assay we can use to check out how these models look. First, we need to summarize these data to a workable format. 
+
+```{r}
+# read in foraging rate assay data - lives in Github - 2022 thermal zoops - raw data - foraging rate assay
+# setwd("C:/Users/kschr/Documents/GitHub/2022-thermal-zoop-experiments/raw-data/foraging-rate-assay")
+# forage<-read.csv("foraging_rate_exp_temp_nutrient_may2023.csv")
+# get forage data frame set up how we want it to be
+
+# first summarize control data
+control <- forage %>% filter(trt=="C") %>%
+  filter(!is.na(read)) %>%
+  group_by(temp,resource) %>%
+  summarize(mean_A = mean(read),
+            se_A = sd(read)/sqrt(n()))
+
+forage %<>% filter(trt !="C") %>%
+  mutate(time_in=paste0(time_in_hr,":",time_in_min),
+         time_measured=paste0(time_measured_hr,":",time_measured_min)) %>%
+  mutate(assay_time = as.numeric(difftime(
+    as.POSIXct(sprintf("%04s",time_measured),format="%H:%M"),
+   as.POSIXct(sprintf("%04s",time_in),format="%H:%M") 
+  ))) %>%
+  select(c(temp,resource,read,block,length,assay_time))
+
+forage <- merge(forage,control,by=c("temp","resource"))
+
+forage %<>% mutate(
+  vol = 40,
+  assay_time_min = assay_time*60,
+  foraging_rate = -log(read/mean_A)*(vol/assay_time_min),
+  resource = as.factor(resource),
+  temp = as.factor(temp),
+  length = as.numeric(length)*17.86/1000 #corrects from raw length on scope to length in mm
+)
+
+ggplot(forage,aes(x=temp,y=foraging_rate,color=resource)) +
+         geom_boxplot() +
+         theme_classic()
+
+
+#what if you account for length?
+forage %<>% filter(!is.na(length)) %>% mutate(foraging_rate_per_length = -log(read/mean_A)*(vol/assay_time_min/length^2))
+
+forage %>% ggplot(aes(x=temp,y=forag))
+ggplot(forage,aes(x=temp,y=foraging_rate_per_length,color=resource)) +
+         geom_boxplot() +
+         theme_classic()
+
+forage %>% ggplot(aes(x=length,y=foraging_rate,color=resource)) +
+  geom_point() +
+  facet_wrap(~temp) +
+  theme_classic()
+
+```
+
+
+
+```{r}
+vol=40
+
+con.f.con.u.nll <- function(f){ # the likelihood function - will fit f
+  simulator <- function(times,y,params){  # simulate foraging dynamics
+    A = y[1]
+    with(as.list(params),{
+      dA = -S*A*f*(length^gamma)
+      res = c(dA)
+      list(res)})}
+  transm <- function(A, length, time, f) { # function to vectorize the simulation
+    sim <- as.data.frame(lsoda(y=c(A=1,S=1), func=simulator, rtol=1e-4, atol=1e-4, # larger is faster but less accurate
+              parms=c(f=f, gamma=2.15, length=length,S=1/vol), 
+              times=seq(from=0, to=maxTime, by=0.5)))}}
+
+sim <- as.data.frame(lsoda(y=c(A=1,S=1), func=simulator, rtol=1e-4, atol=1e-4, # larger is faster but less accurate
+              parms=c(f=f, gamma=2.15, length=length,S=1/vol), 
+              times=seq(from=0, to=maxTime, by=0.5)))
+
+transm.sum <- data.frame(t(mapply(transm, A=forage$mean_A, length=forage$length, time=forage$assay_time_min, f=f)))
+
+colnames(transm.sum) <- c("X1", "time", "Z.start", "Z.end", "A.start", "A.end", "S.start", "S.end", "I.start", "I.end")
+#   transm.sum$f.resid <- log(transm.sum$A.end) - log (g.dat$fluor.) # residuals of feeding rate
+#   transm.sum$u.LL <- dbinom(x=g.dat$infected, size=1, prob=transm.sum$I.end, log=TRUE) # log likelihood of infection data
+#   transm.sum$f.LL <- dnorm(x=transm.sum$f.resid, mean=0, sd=sd(transm.sum$f.resid, na.rm=TRUE), log=TRUE) # ll of feeding data
+#    throw out nonsensical parameters like negative u or negative infection prevalence
+#   ifelse(u < 0 | any(transm.sum$I.end<0), 10000, # return a large number to prevent nonsense fit
+#          -sum(transm.sum$u.LL, na.rm=T) + -sum(transm.sum$f.LL, na.rm=T)) # otherwise sum log liklihoods and send to optimizer
+# }
+```
+
+
+

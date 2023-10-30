@@ -38,9 +38,8 @@ zoop$date<-mdy(zoop$date)
 
 zoop2 <- zoop %>% filter(lake_id!="Herrick"&lake_id!="NN1"&
                            lake_id!="NN2"&lake_id!="Picks"&
-                           lake_id!="Parvo"&lake_id!="Bear Creek"&
-                           lake_id!="Memorial"&lake_id!="Oglethorpe"&
-                           lake_id!="Chapman")
+                           lake_id!="Parvo"&lake_id!="Bear Creek"
+                           )
 
 zoop2 %<>% mutate(lake_id = ifelse(lake_id=="Deans","Dean's",lake_id))
 
@@ -72,12 +71,58 @@ zoop3 <- merge(zoop2,count,by="lake_id")
 fig1 <- zoop3 %>% group_by(lake_id,taxon) %>%
   summarize(proportion_host = unique(sum(count)/total_host))
 
+library(wacolors)
+
+fig1 %<>% 
+  mutate(Host = case_when(
+    taxon == "bos" ~ "Bosmina",
+    taxon == "cer" ~ "Ceriodaphnia",
+    taxon == "dam" ~ "D. ambigua",
+    taxon == "dia" ~ "Diaphanosoma",
+    taxon == "dla" ~ "D. laevis",
+    taxon == "dpa" ~ "D. parvula",
+    taxon == "sim" ~ "Simocephalus"
+  )) 
+fig1$Host <- factor(fig1$Host,levels=c("D. ambigua","D. laevis","D. parvula","Ceriodaphnia","Bosmina","Diaphanosoma","Simocephalus"))
+
+fig1$lake_id <-factor(fig1$lake_id,levels=c("Big Sister","Catfish","Dean's","Deer","NN3","VIP","Sister 1","Chapman","Memorial","Oglethorpe"))
+
+fig1 %<>% mutate(facet <- case_when(
+  lake_id=="Big Sister" ~ "panel1",
+  lake_id=="Catfish" ~ "panel1",
+  lake_id=="Dean's" ~ "panel1",
+  lake_id=="Big Deer" ~ "panel1",
+  lake_id=="NN3" ~ "panel1",
+  TRUE ~ "panel2"))
+
 #stacked plot
-ggplot(fig1, aes(x=lake_id,y=proportion_host,fill=taxon)) +
+ggplot(fig1, aes(x=lake_id,y=proportion_host,fill=Host)) +
   geom_bar(stat="identity") +
   xlab("Pond") +
   theme_classic() +
-  ylab("Host")
+  ylab("Proportion of cladoceran community") +
+  scale_fill_wa_d("sea_star") +
+  theme(text = element_text(size=20)) 
+ggsave("communitycomp.png",dpi=500,height=8,width=16,units="in")
+
+fig1 %>% filter(lake_id=="Big Sister"|lake_id=="Catfish"|lake_id=="Dean's"|lake_id=="Deer"|lake_id=="NN3") %>%
+  ggplot(aes(x=lake_id,y=proportion_host,fill=Host)) +
+  geom_bar(stat="identity") +
+  xlab("Pond") +
+  theme_classic() +
+  ylab("Proportion of cladoceran community") +
+  scale_fill_wa_d("sea_star") +
+  theme(text = element_text(size=20)) 
+ggsave("communitycomp1.png",dpi=500,height=8,width=12,units="in")
+fig1 %>% filter(lake_id!="Big Sister"&lake_id!="Catfish"&lake_id!="Dean's"&lake_id!="Deer"&lake_id!="NN3") %>%
+  ggplot(aes(x=lake_id,y=proportion_host,fill=Host)) +
+  geom_bar(stat="identity") +
+  xlab("Pond") +
+  theme_classic() +
+  ylab("Proportion of cladoceran community") +
+  scale_fill_wa_d("sea_star") +
+  theme(text = element_text(size=20)) 
+ggsave("communitycomp2.png",dpi=500,height=8,width=12,units="in")
 
 #unstacked plot 
 ggplot(fig1, aes(x=lake_id,y=proportion_host,fill=taxon)) +
